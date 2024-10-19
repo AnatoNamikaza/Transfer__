@@ -1,0 +1,9 @@
+{
+	"passes": [{
+		"shader": "ricepod",
+		"textures": ["ricepod/separatistship_engine"],
+		"combos": {
+			"selfillum": 1
+		}
+	}]
+}

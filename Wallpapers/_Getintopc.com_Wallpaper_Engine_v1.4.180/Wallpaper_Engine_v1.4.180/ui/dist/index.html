@@ -1,0 +1,18 @@
+<!doctype html> <html style="display:none"> <head> <meta charset="utf-8"> <title></title> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel="stylesheet" href="styles/vendor.css"> <!-- <link id="mainStyle" rel="stylesheet" href="styles/main.css"> --> <script type="text/javascript"> (function() {
+        var url = new URL(window.location.href);
+        var style = url.searchParams.get('skinStyle') || 'styles/main.css';
+        var head = document.head;
+        var styleElement = document.createElement('link');
+        styleElement.href = style;
+        styleElement.id = 'mainStyle';
+        styleElement.rel = 'stylesheet';
+        styleElement.type = 'text/css';
+        styleElement.setAttribute('skin-key', url.searchParams.get('skinKey'));
+        styleElement.onload = function() {
+            document.documentElement.style.display = 'initial';
+        };
+        head.appendChild(styleElement);
+        if (url.searchParams.get('disablefx') === '1') {
+            document.documentElement.classList.add('removeHWFX');
+        }
+    })(); </script> <script src="scripts/vendor.js"></script> <script src="scripts/scripts.js"></script> </head> <body ng-app="wallpaperbrowserApp" ng-class="languageClass"> <titlebar></titlebar> <div ng-view=""></div> <help-overlay></help-overlay> <div class="OSModalOverlay ng-hide" ng-show="osModalActive"></div> <div class="OSProviderConnectOverlay ng-hide" ng-show="osProviderIsConnecting"> <span class="msg" translate="ui_overlay_connecting_provider"></span> </div> <div class="OSDropLayerOverlay ng-hide" ng-show="osDropActive" id="nativeDropLayer"></div> </body> </html> 

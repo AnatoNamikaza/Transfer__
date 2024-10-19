@@ -1,0 +1,7 @@
+{
+	"passes": [{
+		"shader": "grid",
+		"textures": ["models/grid/grid", "_rt_Reflection"],
+		"blending": "translucent"
+	}]
+}

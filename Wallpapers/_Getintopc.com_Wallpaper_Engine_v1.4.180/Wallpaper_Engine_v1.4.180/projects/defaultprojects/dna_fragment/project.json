@@ -1,0 +1,27 @@
+{
+	"file" : "scene.json",
+	"authorsteamid" : "76561197975619619",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"bgcolor" : 
+			{
+				"text" : "Background accent",
+				"type" : "color",
+				"value" : "0 1 0.6470588235294118"
+			},
+			"schemecolor" : 
+			{
+				"text" : "Scheme color",
+				"type" : "color",
+				"value" : "0.32941176470588235 0.45098039215686275 0.5137254901960784"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "DNA Fragment",
+	"type" : "scene",
+	"visibility" : "public"
+}

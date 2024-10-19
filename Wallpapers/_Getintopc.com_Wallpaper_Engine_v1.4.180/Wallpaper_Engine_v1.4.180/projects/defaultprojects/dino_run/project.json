@@ -1,0 +1,102 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"dino" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "Vita",
+						"value" : "vita"
+					},
+					{
+						"label" : "Doux",
+						"value" : "doux"
+					},
+					{
+						"label" : "Mort",
+						"value" : "mort"
+					},
+					{
+						"label" : "Tard",
+						"value" : "tard"
+					}
+				],
+				"order" : 100,
+				"text" : "Dino",
+				"type" : "combo",
+				"value" : "vita"
+			},
+			"follow_cursor" : 
+			{
+				"order" : 103,
+				"text" : "Follow Cursor",
+				"type" : "bool",
+				"value" : true
+			},
+			"god_rays" : 
+			{
+				"condition" : "",
+				"order" : 102,
+				"text" : "God Rays",
+				"type" : "bool",
+				"value" : true
+			},
+			"level" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "Mountains",
+						"value" : "mountains"
+					},
+					{
+						"label" : "Glacier",
+						"value" : "glacier"
+					},
+					{
+						"label" : "Country",
+						"value" : "country"
+					},
+					{
+						"label" : "Industrial",
+						"value" : "industrial"
+					},
+					{
+						"label" : "Mario",
+						"value" : "mario"
+					}
+				],
+				"order" : 101,
+				"text" : "Level",
+				"type" : "combo",
+				"value" : "mountains"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.2823529411764706 0.5019607843137255 0.09411764705882353"
+			},
+			"show_score" : 
+			{
+				"order" : 104,
+				"text" : "Show Score",
+				"type" : "bool",
+				"value" : true
+			}
+		}
+	},
+	"official" : true,
+	"preview" : "preview.gif",
+	"tags" : [ "Pixel art" ],
+	"title" : "Dino Run",
+	"type" : "scene",
+	"visibility" : "public"
+}

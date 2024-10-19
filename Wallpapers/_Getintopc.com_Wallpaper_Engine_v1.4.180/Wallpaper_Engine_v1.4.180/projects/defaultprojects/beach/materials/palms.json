@@ -1,0 +1,20 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"constantshadervalues" : 
+			{
+				"Amount" : 0.25,
+				"Bright" : 1,
+				"Power" : 1,
+				"Scroll 1 X" : 0.059999998658895493,
+				"Speed" : 0.12999999523162842
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "swayimage",
+			"textures" : [ "palms", "sway" ]
+		}
+	]
+}

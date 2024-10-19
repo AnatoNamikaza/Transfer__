@@ -1,0 +1,26 @@
+{
+	"objects": [{
+		"model": "models/dome/dome.mdl",
+		"name": "Dome",
+		"reflected": true
+	}, {
+		"model": "models/grid/grid.mdl",
+		"name": "Grid"
+	}, {
+		"angles" : "0.000 0.000 0.000",
+		"color" : "1.000 1.000 1.000",
+		"intensity" : 2.0,
+		"light" : "point",
+		"name" : "",
+		"origin" : "2.637 3.351 2.513",
+		"radius" : 14.270000457763672,
+		"scale" : "1.000 1.000 1.000"
+	}],
+	"camera": {
+		"paths": ["scripts/camera.json"]
+	},
+	"general": {
+		"camerafade": true,
+		"bloom": true
+	}
+}

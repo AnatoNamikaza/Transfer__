@@ -1,0 +1,106 @@
+{
+	"camera" : 
+	{
+		"center" : "-3.132 1.261 -5.074",
+		"eye" : "-3.688 1.405 -5.893",
+		"paths" : [ "scripts/camera_00.json" ],
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.000 0.000 0.000",
+		"bloom" : true,
+		"bloomstrength" : 5,
+		"bloomthreshold" : 0.65000000000000002,
+		"camerafade" : true,
+		"cameraparallax" : false,
+		"cameraparallaxamount" : 1,
+		"cameraparallaxdelay" : 1,
+		"cameraparallaxmouseinfluence" : 0,
+		"camerapreview" : true,
+		"camerashake" : true,
+		"camerashakeamplitude" : 0.01,
+		"camerashakeroughness" : 0.10000000000000001,
+		"camerashakespeed" : 5,
+		"clearcolor" : "0.000 0.000 0.000",
+		"norecompile" : true,
+		"orthogonalprojection" : null,
+		"skylightcolor" : "0.000 0.000 0.000"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 2,
+			"model" : "models/ricepod/skybox.mdl",
+			"name" : "Skybox",
+			"origin" : "0.000 0.000 0.000",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 3,
+			"model" : "models/ricepod/orbitaleffects.mdl",
+			"name" : "orbit FX",
+			"origin" : "0.000 0.000 0.000",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 4,
+			"model" : "models/ricepod/ricepod.mdl",
+			"name" : "Ricepod",
+			"origin" : "0.000 0.000 0.000",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 5,
+			"model" : "models/ricepod/jet.mdl",
+			"name" : "jet 1",
+			"origin" : "0.592 0.396 -1.412",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 6,
+			"model" : "models/ricepod/jet.mdl",
+			"name" : "jet 2",
+			"origin" : "-0.592 0.396 -1.412",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 7,
+			"model" : "models/ricepod/jet.mdl",
+			"name" : "jet 3",
+			"origin" : "0.000 -0.608 -1.412",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 8,
+			"name" : "",
+			"origin" : "0.000 -0.621 27.180",
+			"parallaxDepth" : "1.000 1.000",
+			"particle" : "particles/starfield.json",
+			"particlesrc" : null,
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 9,
+			"name" : "sun",
+			"origin" : "0.000 0.000 0.000",
+			"parallaxDepth" : "1.000 1.000",
+			"scale" : "1.000 1.000 1.000",
+			"sprite" : "materials/sprites/sunsprite.json"
+		}
+	]
+}

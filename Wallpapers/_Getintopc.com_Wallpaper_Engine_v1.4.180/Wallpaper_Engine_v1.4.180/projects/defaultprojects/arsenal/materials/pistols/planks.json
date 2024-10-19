@@ -1,0 +1,28 @@
+{
+	"passes" : 
+	[
+		{
+			"combos" : 
+			{
+				"lightmap" : 1,
+				"normalmap" : 1,
+				"reflection" : 1,
+				"detailinalpha": 1
+			},
+			"constantshadervalues" : 
+			{
+				"Light" : 0,
+				"Metal" : 0,
+				"Rough" : 0.68000000715255737
+			},
+			"shader" : "generic",
+			"textures" : 
+			[
+				"pistols/planks",
+				"pistols/planks_normal",
+				"pistols/planks_lightmap",
+				"_rt_Reflection"
+			]
+		}
+	]
+}

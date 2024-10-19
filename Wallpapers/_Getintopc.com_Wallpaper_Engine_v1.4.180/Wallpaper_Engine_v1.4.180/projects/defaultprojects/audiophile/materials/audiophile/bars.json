@@ -1,0 +1,8 @@
+{
+	"passes": [{
+		"shader": "audiophile",
+		"usershadervalues": {
+			"schemecolor": "tint"
+		}
+	}]
+}

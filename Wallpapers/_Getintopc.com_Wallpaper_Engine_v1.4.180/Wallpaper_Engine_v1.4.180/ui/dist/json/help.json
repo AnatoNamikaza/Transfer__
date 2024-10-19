@@ -1,0 +1,91 @@
+{
+    "editor": [{
+        "title": "General",
+        "type": "heading"
+    }, {
+        "title": "How are my changes saved?",
+        "body": "Any changes you make will be saved automatically."
+    }],
+    "editor.type.scene3d": [{
+        "title": "Camera",
+        "type": "heading"
+    }, {
+        "title": "How can I move the camera?",
+        "body": "<b>Rotate</b> the camera by clicking and holding the left mouse button on the scene and moving the mouse.<br/>While holding the left mouse button down, <b>move</b> the camera with WASD or the arrow keys.<br/>Click and hold the right mouse button to <b>roll</b> the camera."
+    }, {
+        "title": "How do I record camera animations?",
+        "body": "Click on the <b>Camera</b> tab in the top left and create a new <b>path</b> to start recording. Use the <b>timeline</b> that appears on the bottom of the preview window to create your path. You can also adjust the duration of your path on the right."
+    }, {
+        "title": "Models",
+        "type": "heading"
+    }, {
+        "title": "How do I import a model?",
+        "body": "Click on <b>Edit</b> and <b>Import Model</b> and choose an .fbx or .obj file to import. Make sure all required textures are in the same directory and in .tga or .png format."
+    }, {
+        "title": "How can I update my model after doing some changes?",
+        "body": "Simply re-import the model without altering its name. All instances in your scene will be updated accordingly."
+    }, {
+        "title": "How do I place my model multiple times in the scene?",
+        "body": "Drag and drop your model from the <b>Asset</b> view on the bottom into the <b>Scene Graph on the left</b>."
+    }, {
+        "title": "How can I move my model?",
+        "body": "First, select your model in the <b>Scene Graph</b> and then choose one of the gizmos in the top left to <b>translate</b>, <b>rotate</b> or <b>scale</b> your model."
+    }, {
+        "title": "How can I tweak my model and its materials?",
+        "body": "Select your model in the <b>Scene Graph</b> and subsequently tweak its (material) properties on the right, in the <b>Properties</b> view."
+    }, {
+        "title": "Why does my model have a dull color?",
+        "body": "Make sure to put lights into your scene to light your model properly. Add a light by clicking on <b>Edit</b> and <b>Add light</b>."
+    }],
+    "editor.type.scene2d": [{
+        "title": "Camera",
+        "type": "heading"
+    }, {
+        "title": "How can I move the camera?",
+        "body": "You can <b>pan</b> the camera by clicking and holding the left mouse button on the scene and moving the mouse. Scrolling the mouse wheel will <b>zoom</b> the view."
+    }, {
+        "title": "Image layers",
+        "type": "heading"
+    }, {
+        "title": "How do I import an image?",
+        "body": "Click on <b>Edit</b> and <b>Import Image</b> and choose a .tga or .png file to import. It will be added to the scene automatically."
+    }, {
+        "title": "How can I update my image after changing it outside the editor?",
+        "body": "Simply re-import the image without altering its name. All instances in your scene will be updated accordingly."
+    }, {
+        "title": "How can I move my image?",
+        "body": "First, select your image in the <b>Scene Graph</b> and then choose one of the gizmos in the top left to <b>translate</b>, <b>rotate</b> or <b>scale</b> your image."
+    }, {
+        "title": "How can I tweak my image and its materials?",
+        "body": "Select your image in the <b>Scene Graph</b> and subsequently tweak its (material) properties on the right, in the <b>Properties</b> view."
+    }],
+    "editor.editorWelcome": [{
+        "title": "Which wallpaper type should I choose?",
+        "body": "<b>Scene</b>: create a dynamic 3D or 2D wallpaper by importing your own models and textures.<br/><b>Video</b>: create a wallpaper from a video file.<br/><b>Web</b>: import a website as a wallpaper.<br/><b>Application</b>: import an application (like a Unity game) and turn it into a wallpaper."
+    }],
+    "editor.editorWelcome.scene": [{
+        "title": "What are the differences between 3D and 2D scenes?",
+        "body": "<b>3D scenes</b> allow you to import models (.fbx and .obj files) while <b>2D scenes</b> only require you to import textures as 2D image layers (.tga and .png files). You will need some experience with Maya, 3DS Max, Modo or alike to create a 3D scene."
+    }],
+    "editor.editorWelcome.scene3d": [],
+    "editor.editorWelcome.scene2d": [],
+    "editor.editorWelcome.video": [{
+        "title": "Which requirements do I need to fulfill for a video wallpaper?",
+        "body": "You only need to import a single video file. Click on <b>Import</b> to get started. Videos using the H.264 codec and mp4 as container format are recommended."
+    }],
+    "editor.editorWelcome.web": [{
+        "title": "How do I create a web wallpaper?",
+        "body": "You will need to supply a directory that contains an <b>index.html</b> and all additional dependencies you need. The entire directory will be copied and the <b>index.html</b> will be loaded automatically to open the wallpaper."
+    }],
+    "editor.editorWelcome.application": [{
+        "title": "How do I create an application wallpaper?",
+        "body": "You need to supply a directory with an executable file (.exe). Unity projects are recommended. The executable will be started automatically as your wallpaper."
+    }],
+    "editor.editorSteamPublish": [{
+        "title": "Which tags are allowed?",
+        "body": "You may only enter tags that appear in the autocomplete box when you start typing."
+    }, {
+        "title": "How do I add additional screenshots or videos to my item?",
+        "body": "After publishing the item to Steam Workshop, you can further edit it in Steam and add additional content."
+    }]
+}

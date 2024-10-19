@@ -1,0 +1,25 @@
+{
+	"passes" : 
+	[
+		{
+			"combos" : 
+			{
+				"lightmap" : 1,
+				"normalmap" : 1
+			},
+			"constantshadervalues" : 
+			{
+				"Light" : 0,
+				"Metal" : 0.41999998688697815,
+				"Rough" : 0.82999998331069946
+			},
+			"shader" : "generic",
+			"textures" : 
+			[
+				"pistols/knife_df",
+				"pistols/knife_df_normal",
+				"pistols/knife_df_lightmap"
+			]
+		}
+	]
+}

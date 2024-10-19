@@ -1,0 +1,69 @@
+{
+	"camera" : 
+	{
+		"center" : "0.916 0.585 -0.157",
+		"eye" : "1.608 1.079 0.371",
+		"paths" : [ "scripts/camera_00.json" ],
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : true,
+		"norecompile" : true,
+		"camerafade" : false,
+		"clearcolor" : "0.000 0.000 0.000",
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 1,
+			"model" : "models/bg/bg.mdl",
+			"name" : "bg",
+			"origin" : "0.000 0.000 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 2,
+			"model" : "models/dna/dna.mdl",
+			"name" : "dna",
+			"origin" : "0.000 -0.065 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 3,
+			"name" : "particles",
+			"origin" : "0.0 0.000 0.0",
+			"particle" : "particles/particles.json",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "-3.085 0.379 3.136",
+			"id" : 4,
+			"model" : "models/curve/curve.mdl",
+			"name" : "curve",
+			"origin" : "-0.422 -0.129 -0.160",
+			"scale" : "1.481 1.481 1.481"
+		},
+		{
+			"angles" : "3.142 0.425 3.142",
+			"id" : 5,
+			"model" : "models/curve/curve.mdl",
+			"name" : "curve",
+			"origin" : "0.625 0.065 0.179",
+			"scale" : "0.606 0.914 0.606"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 6,
+			"model" : "models/bg/bgfade.mdl",
+			"name" : "bgfade",
+			"origin" : "0.000 0.000 0.000",
+			"scale" : "1.000 1.000 1.000"
+		}
+	]
+}

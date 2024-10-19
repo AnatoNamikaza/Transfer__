@@ -1,0 +1,566 @@
+{
+	"Biolab" : 
+	{
+		"general" : 
+		{
+			"browser" : 
+			{
+				"advertiseexplore" : false,
+				"advertiseworkshop" : false,
+				"advertiseworkshoppopup" : false,
+				"authorblacklist" : [],
+				"defaultfilterconfig" : 
+				{
+					"Anime" : true
+				},
+				"explore" : 
+				{
+					"custom" : [],
+					"disliked" : [],
+					"favorites" : [],
+					"liked" : []
+				},
+				"filterinfo" : 
+				{
+					"installed" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : true,
+							"Questionable" : true
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "name",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : true,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : true,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : true,
+							"Scene" : true,
+							"Video" : true,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					},
+					"workshop" : 
+					{
+						"categorytags" : 
+						{
+							"Preset" : true,
+							"Wallpaper" : true
+						},
+						"descending" : false,
+						"filterTitle" : true,
+						"ratingtags" : 
+						{
+							"Everyone" : true,
+							"Mature" : false,
+							"Questionable" : false
+						},
+						"resolutiontags" : 
+						{
+							"1280 x 720" : true,
+							"1366 x 768" : true,
+							"1920 x 1080" : true,
+							"2560 x 1440" : true,
+							"3840 x 2160" : true,
+							"Dual 3840 x 1080" : true,
+							"Dual 5120 x 1440" : true,
+							"Dual 7680 x 2160" : true,
+							"Dual Standard Definition" : true,
+							"Other resolution" : true,
+							"Portrait 1080 x 1920" : true,
+							"Portrait 1440 x 2560" : true,
+							"Portrait 2160 x 3840" : true,
+							"Portrait 720 x 1280" : true,
+							"Portrait Standard Definition" : true,
+							"Standard Definition" : true,
+							"Triple 11520 x 2160" : true,
+							"Triple 4096 x 768" : true,
+							"Triple 5760 x 1080" : true,
+							"Triple 7680 x 1440" : true,
+							"Triple Standard Definition" : true,
+							"Ultrawide 2560 x 1080" : true,
+							"Ultrawide 3440 x 1440" : true,
+							"Ultrawide Standard Definition" : true
+						},
+						"sort" : "top_rated",
+						"sourcetags" : 
+						{
+							"Local" : true,
+							"Official" : true,
+							"Workshop" : true
+						},
+						"tags" : 
+						{
+							"Abstract" : true,
+							"Animal" : true,
+							"Anime" : true,
+							"CGI" : true,
+							"Cartoon" : true,
+							"Cyberpunk" : true,
+							"Fantasy" : true,
+							"Game" : true,
+							"Girls" : true,
+							"Guys" : true,
+							"Landscape" : true,
+							"MMD" : true,
+							"Medieval" : true,
+							"Memes" : true,
+							"Music" : true,
+							"Nature" : true,
+							"Pixel art" : true,
+							"Relaxing" : true,
+							"Retro" : true,
+							"Sci-Fi" : true,
+							"Sports" : true,
+							"Technology" : true,
+							"Television" : true,
+							"Unspecified" : false,
+							"Vehicle" : true
+						},
+						"type" : "",
+						"typetags" : 
+						{
+							"Application" : false,
+							"Scene" : true,
+							"Video" : true,
+							"Web" : true
+						},
+						"utilitytags" : {}
+					}
+				},
+				"folders" : [],
+				"lastselectedmonitor" : "//?/DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}",
+				"resultsperpage" : 100,
+				"showmonitorselectiononstart" : true,
+				"viewiconsize" : "medium",
+				"viewopacity" : 100
+			},
+			"editor" : 
+			{
+				"hasshownworkshoprules" : true,
+				"previewratio" : "free",
+				"recentfiles" : [],
+				"savedlayouts" : {},
+				"scriptconsoleautoscroll" : true,
+				"showgrid" : true,
+				"showonstartup" : true,
+				"showselectionbox" : true,
+				"showstats" : false
+			},
+			"localfiles" : 
+			[
+				"E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+				"E:/Anato/Wallpapers/Live Wallpaper/galaxy-sky-windows-moewalls-com.mp4"
+			],
+			"user" : 
+			{
+				"adjustdwmcolor" : false,
+				"adjustdwmcolormode" : "disabled",
+				"apprules" : null,
+				"audioinputdevice" : "default",
+				"audioinputthreshold" : 0,
+				"audioinputvolume" : 50,
+				"autostart" : true,
+				"autostartscheduler" : true,
+				"autostartx64" : false,
+				"bloom" : null,
+				"cefcommandline" : "",
+				"fps" : 25,
+				"hasshownhighprioritywarning" : true,
+				"hasshownwelcomedialog" : true,
+				"iconopacity" : 100,
+				"language" : "default",
+				"loglevel" : "error",
+				"monitordetection" : "devicepath",
+				"msaa" : "x2",
+				"pausevram" : false,
+				"playbackaudio" : "run",
+				"playbackfocus" : "run",
+				"playbackfullscreen" : "pause",
+				"playbackmaximized" : "pause",
+				"playbackonbattery" : "run",
+				"playbacksleep" : "stop",
+				"plugindelay" : 0,
+				"plugins" : 
+				{
+					"ledextensions" : 
+					{
+						"enabled" : true
+					}
+				},
+				"postprocessing" : "enabled",
+				"preset" : "high",
+				"processpriority" : "normal",
+				"reflection" : true,
+				"resolution" : "full",
+				"safemode" : true,
+				"steamlanguage" : "english",
+				"uicmd" : "",
+				"uieffects" : true,
+				"uihardwareacceleration" : true,
+				"uiskin" : "white",
+				"uiskinseasonal" : true,
+				"unpauseaero" : true,
+				"videoaudiooutput" : true,
+				"videohardwareacceleration" : true,
+				"videoloopmode" : "default",
+				"videoreadmode" : "fromdisk",
+				"webmframework" : null,
+				"windows7mode" : "compatibility",
+				"windowupdaterate" : 1000
+			},
+			"wallpaperconfig" : 
+			{
+				"layout" : 0,
+				"profile" : null,
+				"selectedwallpapers" : 
+				{
+					"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+					},
+					"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+						"local" : true
+					},
+					"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json",
+						"local" : true
+					},
+					"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+					{
+						"file" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json"
+					}
+				}
+			},
+			"wallpaperconfigrecent" : 
+			[
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/demon_core/scene.json"
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, Demon Core"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/demon_core/scene.json"
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/neon_sunset/scene.json"
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/audiophile/audiophile.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Audiophile, Neon Sunset, Demon Core"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/demon_core/scene.json"
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/neon_sunset/scene.json"
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, Neon Sunset, Demon Core"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/neon_sunset/scene.json"
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, Neon Sunset, todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/galaxy-sky-windows-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, galaxy-sky-windows-moewalls-com.mp4, todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/dna_fragment/scene.json",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, DNA Fragment, todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom, Razer Vortex, todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							},
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Bedroom"
+				},
+				{
+					"config" : 
+					{
+						"layout" : 0,
+						"profile" : null,
+						"selectedwallpapers" : 
+						{
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json"
+							},
+							"//?/DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/Live Wallpaper/todoroki-fire-and-ice-my-hero-academia-moewalls-com.mp4",
+								"local" : true
+							},
+							"//?/DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json",
+								"local" : true
+							},
+							"//?/DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+							{
+								"file" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_vortex/scene.json"
+							}
+						}
+					},
+					"playlist" : false,
+					"title" : "Razer Vortex"
+				}
+			]
+		},
+		"version" : 1,
+		"wallpaperproperties" : null
+	},
+	"_installdirectory" : "E:/Abdul Rehman/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180"
+}

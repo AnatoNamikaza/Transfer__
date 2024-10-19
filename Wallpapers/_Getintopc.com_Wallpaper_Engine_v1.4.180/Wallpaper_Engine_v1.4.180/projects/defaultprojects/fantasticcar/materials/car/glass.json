@@ -1,0 +1,13 @@
+{
+	"passes": [{
+		"shader": "car",
+		"textures": ["car/glass"],
+		"blending": "translucent",
+		//"cullmode": "nocull",
+		"constantshadervalues": {
+			"specularstrength": 5,
+			"specularsinescale": 0,
+			"specularpower": 50
+		}
+	}]
+}

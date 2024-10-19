@@ -1,0 +1,35 @@
+{
+	"file" : "scene.json",
+	"authorsteamid": "76561197975619619",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"flagcolor1" : 
+			{
+				"text" : "Accent 1",
+				"type" : "color",
+				"value" : "1 1 1",
+				"order" : -2
+			},
+			"flagcolor2" : 
+			{
+				"text" : "Accent 2",
+				"type" : "color",
+				"value" : "1 0 0",
+				"order" : -1
+			},
+			"schemecolor" : 
+			{
+				"text" : "Background color",
+				"type" : "color",
+				"value" : "0.18 0.38 0.184"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "Eagle Flag",
+	"type" : "scene",
+	"visibility" : "public"
+}

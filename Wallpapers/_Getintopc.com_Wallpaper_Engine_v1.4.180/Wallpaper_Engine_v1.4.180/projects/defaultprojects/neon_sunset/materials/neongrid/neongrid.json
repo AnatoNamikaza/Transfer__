@@ -1,0 +1,23 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : {},
+			"constantshadervalues" : {},
+			"cullmode" : "normal",
+			"depthtest" : "enabled",
+			"depthwrite" : "enabled",
+			"shader" : "neongrid",
+			"textures" : [ "neongrid/neongrid" ],
+			"usershadervalues" :
+			{
+				"gridnear" : "gridnear",
+				"gridfar" : "gridfar",
+				"gridbackground" : "gridbackground",
+				"mountainscale" : "mountainscale",
+				"shading" : "shading"
+			}
+		}
+	]
+}

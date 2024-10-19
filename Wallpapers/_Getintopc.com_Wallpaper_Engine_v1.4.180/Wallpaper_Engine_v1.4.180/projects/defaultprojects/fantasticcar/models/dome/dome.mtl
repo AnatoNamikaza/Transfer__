@@ -1,0 +1,72 @@
+newmtl car:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd body.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rims.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.46 0.46 0.46
+map_Kd glass.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd extras.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd carbon.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lights.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grate.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl car:phongE8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd shadow.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dome.png
+Ni 1.00
+Ks 0.50 0.50 0.50

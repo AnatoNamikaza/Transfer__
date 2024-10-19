@@ -1,0 +1,26 @@
+{
+	"passes" : 
+	[
+		{
+			"combos" : 
+			{
+				"lightmap" : 1,
+				"normalmap" : 1,
+				"detailinalpha": 1
+			},
+			"constantshadervalues" : 
+			{
+				"Light" : 0,
+				"Metal" : 0.4699999988079071,
+				"Rough" : 0.69999998807907104
+			},
+			"shader" : "generic",
+			"textures" : 
+			[
+				"pistols/Pistol0101_D",
+				"pistols/Pistol0101_D_normal",
+				"pistols/Pistol0101_D_lightmap"
+			]
+		}
+	]
+}

@@ -1,0 +1,142 @@
+{
+	"controlpoint" : 
+	[
+		{
+			"flags" : 0,
+			"id" : 0,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 1,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 2,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 3,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 4,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 5,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 6,
+			"offset" : "0 0 0"
+		},
+		{
+			"flags" : 0,
+			"id" : 7,
+			"offset" : "0 0 0"
+		}
+	],
+	"emitter" : 
+	[
+		{
+			"directions" : "1.8 0.3 1",
+			"distancemax" : 500,
+			"distancemin" : 0,
+			"id" : 8,
+			"name" : "sphererandom",
+			"rate" : 3.5
+		}
+	],
+	"flags" : 4,
+	"initializer" : 
+	[
+		{
+			"id" : 2,
+			"max" : 70,
+			"min" : 48,
+			"name" : "lifetimerandom"
+		},
+		{
+			"exponent" : 2,
+			"id" : 3,
+			"max" : 60,
+			"min" : 20,
+			"name" : "sizerandom"
+		},
+		{
+			"id" : 4,
+			"max" : "-17 3 0",
+			"min" : "-3 -3 0",
+			"name" : "velocityrandom"
+		},
+		{
+			"id" : 5,
+			"name" : "colorrandom"
+		},
+		{
+			"exponent" : 6,
+			"id" : 6,
+			"max" : "1 1 1",
+			"min" : "0 0 0",
+			"name" : "angularvelocityrandom"
+		},
+		{
+			"id" : 7,
+			"max" : "6.283 6.283 6.283",
+			"name" : "rotationrandom"
+		}
+	],
+	"material" : "materials/particle/dustmote_1.json",
+	"maxcount" : 400,
+	"operator" : 
+	[
+		{
+			"id" : 9,
+			"name" : "movement"
+		},
+		{
+			"frequencymax" : 0.59999999999999998,
+			"frequencymin" : 0.10000000000000001,
+			"id" : 10,
+			"mask" : "0.3 0.5 0",
+			"name" : "oscillateposition",
+			"phasemax" : 1,
+			"phasemin" : 0,
+			"scalemax" : 35,
+			"scalemin" : 20
+		},
+		{
+			"fadeintime" : 0.10000000000000001,
+			"id" : 11,
+			"name" : "alphafade"
+		},
+		{
+			"frequencymax" : 6,
+			"frequencymin" : 0.20000000000000001,
+			"id" : 12,
+			"name" : "oscillatealpha",
+			"phasemax" : 1,
+			"phasemin" : 0,
+			"scalemax" : 1,
+			"scalemin" : 0.10000000000000001
+		},
+		{
+			"id" : 13,
+			"name" : "angularmovement"
+		}
+	],
+	"renderer" : 
+	[
+		{
+			"id" : 1,
+			"name" : "sprite"
+		}
+	],
+	"starttime" : 200
+}

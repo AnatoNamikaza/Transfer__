@@ -1,0 +1,32 @@
+{
+	"camera" : 
+	{
+		"center" : "0 0 -1.000",
+		"eye" : "0 0 0.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : false,
+		"clearcolor" : "0.700 0.700 0.700",
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 1920
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0 0 0",
+			"id" : 1,
+			"image" : "models/flag.json",
+			"name" : "Flag",
+			"origin" : "0 0 0",
+			"scale" : "1.05 1.05 1.000",
+			"locktransforms" : true
+		}
+	]
+}

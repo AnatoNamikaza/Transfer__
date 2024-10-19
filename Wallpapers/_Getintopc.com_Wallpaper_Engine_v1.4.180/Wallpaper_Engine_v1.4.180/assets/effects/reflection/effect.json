@@ -1,0 +1,20 @@
+{
+	"version" : 1,
+	"replacementkey" : "reflection",
+	"name" : "ui_editor_effect_reflection_title",
+	"description" : "ui_editor_effect_reflection_description",
+	"group" : "colorize",
+	"preview" : "preview/project.json",
+	"passes" :
+	[
+		{
+			"material" : "materials/effects/reflection.json"
+		}
+	],
+	"dependencies" :
+	[
+		"materials/effects/reflection.json",
+		"shaders/effects/reflection.frag",
+		"shaders/effects/reflection.vert"
+	]
+}

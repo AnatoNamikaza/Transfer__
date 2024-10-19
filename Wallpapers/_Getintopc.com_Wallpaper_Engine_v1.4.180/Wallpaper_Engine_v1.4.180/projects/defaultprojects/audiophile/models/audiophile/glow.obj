@@ -1,0 +1,13 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib glow.mtl
+v -3.285059 -3.285059 -0.554853
+v 3.285059 -3.285059 -0.554853
+v -3.285059 3.285059 -0.554853
+v 3.285059 3.285059 -0.554853
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+usemtl phongE1SG
+f 1/1 2/2 4/4 3/3

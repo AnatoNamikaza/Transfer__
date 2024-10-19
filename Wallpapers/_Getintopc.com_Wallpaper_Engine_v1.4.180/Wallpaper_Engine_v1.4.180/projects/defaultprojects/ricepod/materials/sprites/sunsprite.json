@@ -1,0 +1,9 @@
+{
+	"passes": [{
+		"shader": "sprite",
+		"depthwrite": "disabled",
+		"depthtest": "disabled",
+		"blending": "additive",
+		"textures": ["sprites/sunsprite"]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	"passes": [{
+		"shader": "technohex",
+		"depthwrite": "disabled",
+		"blending": "additive",
+		"cullmode": "nocull",
+		"textures": ["techno/technohex", "techno/technoclouds4"],
+		"usershadervalues": {
+			"schemecolor": "tint",
+			"accentcolor": "tintaccent"
+		}
+	}]
+}

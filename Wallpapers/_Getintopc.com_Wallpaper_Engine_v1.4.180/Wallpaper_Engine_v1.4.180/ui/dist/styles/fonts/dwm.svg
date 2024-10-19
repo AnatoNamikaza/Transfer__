@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="dwm" horiz-adv-x="1000" >
+<font-face font-family="dwm" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="maximize" unicode="&#xe800;" d="m188 661v-498h625v498h-625z m62-438v312h498l-1-312-497 0z" horiz-adv-x="1000" />
+<glyph glyph-name="window" unicode="&#xe801;" d="m187 539v-501h500v501h-500z m436-438h-373v313h373v-313z m188 500h-499v63h499v-63z m0-439h-61v502h61v-502z" horiz-adv-x="1000" />
+<glyph glyph-name="minimize" unicode="&#xe802;" d="m749 162h-500v126h500v-126z" horiz-adv-x="1000" />
+<glyph glyph-name="close-1" unicode="&#xe804;" d="m316 563l192-192 192 191 47-53-190-188 181-194-54-52-177 200-207-205-52 56 202 201-190 185 56 51z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

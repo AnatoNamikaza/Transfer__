@@ -1,0 +1,115 @@
+{
+  "description": "An iCUE enabled sound visualization wallpaper featuring the Corsair-O-Tron",
+  "file": "index.html",
+  "preview" : "preview.gif",
+  "general": {
+    "properties": {
+      "sensitivity": {
+        "order": 0,
+        "editable": true,
+        "max": 20,
+        "min": 1,
+        "text": "Audio sensitivity",
+        "type": "slider",
+        "value": 1
+      },
+      "calculationtype" :
+      {
+        "order": 1,
+        "text" : "Peak calculation type",
+        "type" : "combo",
+        "value" : "max",
+        "options" :
+        [
+          {
+            "value" : "max",
+            "label" : "Max value"
+          },
+          {
+            "value" : "median",
+            "label" : "Median"
+          },
+          {
+            "value" : "mean",
+            "label" : "Mean"
+          },
+          {
+            "value" : "average",
+            "label" : "Average"
+          }
+        ]
+      },
+      "peaksensitivity": {
+        "order": 2,
+        "editable": true,
+        "max": 20,
+        "min": 1,
+        "text": "Peak sensitivity",
+        "type": "slider",
+        "value": 1
+      },
+      "logorings": {
+        "order": 3,
+        "text": "Show logo rings",
+        "type": "bool",
+        "value": "true"
+      },
+      "logocolor": {
+        "order": 4,
+        "text": "Logo color",
+        "type": "color",
+        "value": "0 0 0"
+      },
+      "backgroundcolor": {
+        "order": 5,
+        "text": "Background color",
+        "type": "color",
+        "value": "1 1 1"
+      },
+      "schemecolor": {
+        "order": 6,
+        "text": "Bar color",
+        "type": "color",
+        "value": "0 0 0"
+      },
+      "rainbowscheme": {
+        "order": 7,
+        "text": "Rainbow bars",
+        "type": "bool",
+        "value": false
+      },
+      "cyclerainbow": {
+        "order": 8,
+        "text": "Cycle rainbow",
+        "type": "bool",
+        "value": false,
+        "condition" : "rainbowscheme.value"
+      },
+      "showbottom": {
+        "order": 9,
+        "text": "Bottom bar height",
+        "type": "slider",
+        "min" : 0,
+        "max" : 650,
+        "value": "150"
+      },
+      "bottomcolor": {
+        "order": 10,
+        "text": "Bottom bar color",
+        "type": "color",
+        "value": "0.5490196078431373 0.5490196078431373 0.5490196078431373",
+        "condition" : "showbottom.value > 0"
+      },
+      "colorized": {
+        "order": 11,
+        "text": "Show colorized Corsair-O-Tron",
+        "type": "bool",
+        "value": false
+      }
+    },
+    "supportsaudioprocessing": true
+  },
+  "title": "Corsair-O-Tron",
+  "type": "web",
+  "official" : true
+}

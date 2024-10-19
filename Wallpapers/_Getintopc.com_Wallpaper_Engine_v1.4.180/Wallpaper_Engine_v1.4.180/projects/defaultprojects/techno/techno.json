@@ -1,0 +1,23 @@
+{
+	"objects": [{
+		"model": "models/techno/glow.mdl"
+	}, {
+		"model": "models/techno/sphere.mdl",
+		"origin": "0 0 0.02"
+	}, {
+		"model": "models/techno/orbitsmall.mdl"
+	}, {
+		"model": "models/techno/rays.mdl"
+	}],
+	"camera": {
+		"eye": "-0.2 -0.07 -0.5",
+		//"eye": "-0.2 -0.07 3",
+		"center": "-0.1 -0.01 1",
+		"up": "0 1 0"
+	},
+	"general": {
+		"supportsaudioprocessing": false,
+		"norecompile" : true,
+		"clearcolor": "0.02 0.05 0.2"
+	}
+}

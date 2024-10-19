@@ -1,0 +1,33 @@
+{
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"light_speed" : 
+			{
+				"fraction" : true,
+				"max" : 1.5,
+				"min" : -1.5,
+				"order" : 100,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Light Speed",
+				"type" : "slider",
+				"value" : 1
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.01568627450980392 0.03137254901960784 0.2"
+			}
+		}
+	},
+	"official" : true,
+	"preview" : "preview.gif",
+	"title" : "Razer Bedroom",
+	"type" : "scene",
+	"version" : 0
+}

@@ -1,0 +1,24 @@
+{
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"text" : "Background color",
+				"type" : "color",
+				"value" : "0.573 0.710 0.808"
+			}
+		}
+	},
+	"templateoptions" : 
+	[
+		{
+			"type" : "userpropertycolor",
+			"name" : "Dome color",
+			"description" : "Default color used for dome and Windows scheme.",
+			"key" : "schemecolor"
+		}
+	]
+}

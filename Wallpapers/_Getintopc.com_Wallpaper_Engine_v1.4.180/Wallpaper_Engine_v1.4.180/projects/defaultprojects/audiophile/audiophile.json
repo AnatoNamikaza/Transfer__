@@ -1,0 +1,23 @@
+{
+	"objects": [{
+		"model": "models/audiophile/bars.mdl",
+		"reflected": true
+	}, {
+		"model": "models/audiophile/flow.mdl"
+	}, {
+		"model": "models/audiophile/glow.mdl"
+	}, {
+		"model": "models/grid/grid.mdl",
+		"skin": 1
+	}],
+	"camera": {
+		"eye": "0 0.1 3.3",
+		"center": "0 0.2 2",
+		"up": "0 1 0"
+	},
+	"general": {
+		"supportsaudioprocessing": true,
+		"norecompile" : true,
+		"clearcolor": "0.05 0.05 0.05"
+	}
+}

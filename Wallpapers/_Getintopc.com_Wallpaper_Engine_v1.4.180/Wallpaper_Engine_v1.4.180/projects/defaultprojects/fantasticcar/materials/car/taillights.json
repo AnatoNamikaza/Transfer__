@@ -1,0 +1,13 @@
+{
+	"passes": [{
+		"shader": "car",
+		"textures": ["car/taillights"],
+		"constantshadervalues": {
+			"specularstrength": 0.25,
+			"specularpower": 10
+		},
+		"usershadervalues": {
+			"schemecolor": "ambientcolor"
+		}
+	}]
+}

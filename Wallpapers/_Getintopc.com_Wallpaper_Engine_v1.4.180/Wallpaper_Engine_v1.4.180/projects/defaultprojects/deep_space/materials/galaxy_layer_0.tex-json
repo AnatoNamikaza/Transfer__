@@ -1,0 +1,5 @@
+{
+	"nonpoweroftwo" : true,
+	"clampuvs": true,
+	"nomip": true
+}

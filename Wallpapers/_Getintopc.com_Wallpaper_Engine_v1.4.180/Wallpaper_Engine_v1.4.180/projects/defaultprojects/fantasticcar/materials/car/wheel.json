@@ -1,0 +1,19 @@
+{
+	"passes": [{
+		"shader": "car",
+		"textures": ["car/wheel", "car/wheel_normal"],
+		"combos": {
+			"specularalpha": 1,
+			"normalmap": 1,
+			"maskpaintcolor": 1
+		},
+		"constantshadervalues": {
+			"specularstrength": 1,
+			"specularpower": 10
+		},
+		"usershadervalues": {
+			"schemecolor": "ambientcolor",
+			"rimscolor": "paintcolor"
+		}
+	}]
+}

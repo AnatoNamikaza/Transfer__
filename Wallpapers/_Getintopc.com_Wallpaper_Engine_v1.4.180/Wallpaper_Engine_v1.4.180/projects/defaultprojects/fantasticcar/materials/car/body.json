@@ -1,0 +1,21 @@
+{
+	"passes": [{
+		"shader": "car",
+		"textures": ["car/body", "car/body_normal"],
+		"combos": {
+			"metal": 1,
+			"paintwork": 1,
+			"normalmap": 1,
+			"compressednormal": 1
+		},
+		"constantshadervalues": {
+			"specularstrength": 0.4,
+			"specularsinescale": 12
+		},
+		"usershadervalues": {
+			"carbodycolor": "paintcolor",
+			"carstripescolor": "paintcolorstripes",
+			"schemecolor": "ambientcolor"
+		}
+	}]
+}

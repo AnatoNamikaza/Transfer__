@@ -1,0 +1,820 @@
+{
+	"camera" : 
+	{
+		"center" : "0.00000 0.00000 -1.00000",
+		"eye" : "0.00000 0.00000 0.00000",
+		"up" : "0.00000 1.00000 0.00000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.30000 0.30000 0.30000",
+		"bloom" : true,
+		"bloomhdrfeather" : 0.10000000149011612,
+		"bloomhdrscatter" : 1.6200000047683716,
+		"bloomhdrstrength" : 2.5,
+		"bloomhdrthreshold" : 1.0,
+		"bloomstrength" : 1.0,
+		"bloomthreshold" : 1.0,
+		"camerafade" : true,
+		"cameraparallax" : false,
+		"cameraparallaxamount" : 0.5,
+		"cameraparallaxdelay" : 0.10000000149011612,
+		"cameraparallaxmouseinfluence" : 0.0,
+		"camerapreview" : true,
+		"camerashake" : false,
+		"camerashakeamplitude" : 0.5,
+		"camerashakeroughness" : 1.0,
+		"camerashakespeed" : 3.0,
+		"clearcolor" : "0.00000 0.00000 0.00000",
+		"clearenabled" : true,
+		"farz" : 10000.0,
+		"fov" : 50.0,
+		"hdr" : true,
+		"nearz" : 0.0099999997764825821,
+		"norecompile" : true,
+		"orthogonalprojection" : 
+		{
+			"height" : 2160,
+			"width" : 3840
+		},
+		"skylightcolor" : "0.30000 0.30000 0.30000",
+		"zoom" : 1.0
+	},
+	"objects" : 
+	[
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 228,
+			"image" : "models/backgroundclear.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "backgroundclear",
+			"origin" : "1920.00000 1452.63794 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "220.10500 123.08000 146.04300",
+			"size" : "8.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 -0.00000 0.61700",
+			"brightness" : 3.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 52,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"repeat" : "1 1",
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 53
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 39,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "1539.07703 1661.65405 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "7.26900 2.73300 -10.91600",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 -0.61300",
+			"brightness" : 3.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 49,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 50
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 47,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "2285.60400 1671.19800 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "7.08300 3.80700 11.86200",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 -0.61300",
+			"brightness" : 4.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 88,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 89
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 87,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "2517.19092 1188.56299 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.65900 1.48800 3.95800",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 -0.00000 0.62700",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 106,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 107
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 105,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "1685.55566 864.66504 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "5.43665 49.48900 16.47500",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 -0.55500",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 12,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 266,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 267
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 265,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "2540.82300 1270.46204 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "3.15200 32.41900 7.12700",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 -0.00000 0.63000",
+			"brightness" : 4.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 214,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 215
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 213,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "1554.36902 1093.59399 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "2.25100 8.49800 3.97900",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 -0.00000 0.76600",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 222,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 223
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 221,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "1374.14905 998.14398 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.03700 19.15000 4.57500",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 -0.00000 0.69300",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 230,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								},
+								"speedy" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 231
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 229,
+			"image" : "models/wave.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "wave",
+			"origin" : "1640.12500 1244.62000 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "0.99300 8.21200 2.39800",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"id" : 62,
+			"image" : "models/new_wall_combined4k.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "new_wall_combined4k",
+			"origin" : "1920.00000 1080.00000 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "3840.00000 2160.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 152,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.08;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "1 0 0"
+								}
+							},
+							"id" : 153
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 148,
+			"image" : "models/glow1.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "glow1",
+			"origin" : "1778.63306 1477.23596 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "373.00000 342.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 11,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 185,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.08;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "0.89804 1.00000 0.00000"
+								}
+							},
+							"id" : 186
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 136,
+			"image" : "models/glow4.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "glow4",
+			"origin" : "1309.56104 1232.19800 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "268.00000 465.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 11,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 170,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"alpha" : 0.47999999999999998,
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.07;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "1.00000 0.00000 0.00000"
+								}
+							},
+							"id" : 171
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 140,
+			"image" : "models/glow3.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "glow3",
+			"origin" : "1462.08606 1345.59595 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "377.00000 528.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 11,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 188,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"combos" : 
+							{
+								"BLENDMODE" : 30
+							},
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.09;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "0.00000 1.00000 0.78039"
+								}
+							},
+							"id" : 189
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 144,
+			"image" : "models/glow2.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "glow2",
+			"origin" : "1654.60400 1483.51099 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "291.00000 442.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 11,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 130,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"alpha" : 1,
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.2;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "1 0 0"
+								}
+							},
+							"id" : 131
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 128,
+			"image" : "models/neon.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "NEON",
+			"origin" : "1560.22498 1503.35095 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "576.00000 415.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/tint/effect.json",
+					"id" : 296,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"color" : 
+								{
+									"script" : "'use strict';\n\nimport * as WEColor from 'WEColor';\n\nlet rainbowSpeed = 0.09;\nlet rainbowSaturation = 1;\nlet rainbowBrightness = 1;\n\n/**\n * @param {Vec3} value\n */\nexport function update(value) {\n\n\tvalue = WEColor.hsv2rgb({\n\t\tx: Date.now() / 2000 * rainbowSpeed % 1,\n\t\ty: rainbowSaturation,\n\t\tz: rainbowBrightness\n\t});\n\t\n\treturn value;\n}\n",
+									"value" : "1 0 0"
+								}
+							},
+							"id" : 297
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 291,
+			"image" : "models/MAT_STRIP.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "MAT_STRIP",
+			"origin" : "1555.63196 1092.12195 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "333.00000 246.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 11,
+			"copybackground" : true,
+			"id" : 312,
+			"image" : "models/hue-bulb.json",
+			"ledsource" : false,
+			"locktransforms" : false,
+			"name" : "hue-bulb",
+			"origin" : "1474.53699 1186.02698 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "448.00000 315.00000",
+			"solid" : true,
+			"visible" : true
+		},
+		{
+			"alignment" : "center",
+			"alpha" : 1.0,
+			"angles" : "0.00000 0.00000 0.00000",
+			"brightness" : 1.0,
+			"color" : "1.00000 1.00000 1.00000",
+			"colorBlendMode" : 0,
+			"copybackground" : true,
+			"effects" : 
+			[
+				{
+					"file" : "effects/scroll/effect.json",
+					"id" : 290,
+					"name" : "",
+					"passes" : 
+					[
+						{
+							"constantshadervalues" : 
+							{
+								"speedx" : 
+								{
+									"user" : "light_speed",
+									"value" : 1
+								}
+							},
+							"id" : 292
+						}
+					],
+					"visible" : true
+				}
+			],
+			"id" : 288,
+			"image" : "models/wave.json",
+			"ledsource" : true,
+			"locktransforms" : false,
+			"name" : "LED controller",
+			"origin" : "74.95000 -122.72400 0.00000",
+			"parallaxDepth" : "1.00000 1.00000",
+			"perspective" : false,
+			"scale" : "1.00000 1.00000 1.00000",
+			"size" : "128.00000 8.00000",
+			"solid" : true,
+			"visible" : false
+		}
+	],
+	"version" : 1
+}

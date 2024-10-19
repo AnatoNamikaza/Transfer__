@@ -1,0 +1,27 @@
+{
+	"file" : "scene.json",
+	"authorsteamid": "76561197975619619",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"accentcolor" : 
+			{
+				"text" : "Accent",
+				"type" : "color",
+				"value" : "1 0 0"
+			},
+			"schemecolor" : 
+			{
+				"text" : "Background color",
+				"type" : "color",
+				"value" : "0.72 0.64 0.42"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "Retro",
+	"type" : "scene",
+	"visibility" : "public"
+}

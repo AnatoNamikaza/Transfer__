@@ -1,0 +1,19 @@
+{
+	"passes" : 
+	[
+		{
+			"combos" : 
+			{
+				"lightmap" : 1
+			},
+			"constantshadervalues" : 
+			{
+				"Light" : 0,
+				"Metal" : 1,
+				"Rough" : 0
+			},
+			"shader" : "generic",
+			"textures" : [ "pistols/goldmetal", "pistols/goldmetal_lightmap" ]
+		}
+	]
+}

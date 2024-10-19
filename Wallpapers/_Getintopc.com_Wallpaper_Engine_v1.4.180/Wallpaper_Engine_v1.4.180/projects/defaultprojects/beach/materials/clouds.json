@@ -1,0 +1,19 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "additive",
+			"constantshadervalues" : 
+			{
+				"Alpha" : 0.25999999046325684,
+				"Bright" : 1,
+				"Power" : 1,
+				"Scroll 1 X" : -0.059999998658895493
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage",
+			"textures" : [ "clouds" ]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"GRADIENT_FADE" : 1
+			},
+			"constantshadervalues" : {},
+			"cullmode" : "nocull",
+			"depthwrite" : "disabled",
+			"shader" : "bg",
+			"textures" : [ "bg/clouds_blurred", "bg/bgpattern" ],
+			"usershadervalues" : 
+			{
+				"schemecolor" : "tint",
+				"bgcolor" : "tint2"
+			}
+		}
+	]
+}

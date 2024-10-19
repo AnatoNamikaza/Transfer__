@@ -1,0 +1,19 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "additive",
+			"constantshadervalues" : 
+			{
+				"Freq" : 1,
+				"Scroll speed" : -0.25
+			},
+			"shader" : "curve",
+			"textures" : [ "curve/curve" ],
+			"usershadervalues" : 
+			{
+				"schemecolor" : "tint"
+			}
+		}
+	]
+}

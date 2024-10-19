@@ -1,0 +1,19 @@
+{
+	"version" : 1,
+	"name" : "ui_editor_effect_tint_title",
+	"description" : "ui_editor_effect_tint_description",
+	"group" : "colorize",
+	"preview" : "preview/project.json",
+	"passes" :
+	[
+		{
+			"material" : "materials/effects/rz.json"
+		}
+	],
+	"dependencies" :
+	[
+		"materials/effects/rz.json",
+		"shaders/effects/rz.frag",
+		"shaders/effects/rz.vert"
+	]
+}

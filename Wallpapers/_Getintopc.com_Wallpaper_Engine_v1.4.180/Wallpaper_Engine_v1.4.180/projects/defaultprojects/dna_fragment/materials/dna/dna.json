@@ -1,0 +1,12 @@
+{
+	"passes" : 
+	[
+		{
+			"shader" : "dna",
+			"textures" : [ "dna/dna" ],
+			"usershadervalues": {
+				"schemecolor": "tint"
+			}
+		}
+	]
+}

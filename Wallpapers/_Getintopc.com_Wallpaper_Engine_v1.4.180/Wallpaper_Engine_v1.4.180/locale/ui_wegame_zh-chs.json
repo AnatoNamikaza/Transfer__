@@ -1,0 +1,3 @@
+{
+	"ui_browse_modal_no_steam_body" : "Steam相关服务不可用。 请尝试重启Steam，然后通过Steam重启Wallpaper Engine。 如果此情况仍然出现，说明您的电脑不能通过Steam服务器正确认证，请检查您的网络连接，并确认您登录了正确的Steam账户。<br/><br/>反馈问题：<a href='https://www.wegame.com.cn/feedback'>https://www.wegame.com.cn/feedback</a>"
+}

@@ -1,0 +1,9 @@
+{
+	"passes": [{
+		"shader": "skybox",
+		"textures": ["ricepod/orbital_ring"],
+		"blending": "additive",
+		"depthwriting": "disabled",
+		"depthtesting": "disabled"
+	}]
+}

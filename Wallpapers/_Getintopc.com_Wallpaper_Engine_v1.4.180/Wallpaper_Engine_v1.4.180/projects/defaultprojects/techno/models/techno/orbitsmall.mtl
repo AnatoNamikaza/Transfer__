@@ -1,0 +1,54 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phongE2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.35 0.35 0.35
+map_Kd techno.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd glow.psd
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd orbitsmall.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd orbitsmall1.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd orbitsmall2.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl phongE7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd orbit.png
+Ni 1.00
+Ks 0.50 0.50 0.50

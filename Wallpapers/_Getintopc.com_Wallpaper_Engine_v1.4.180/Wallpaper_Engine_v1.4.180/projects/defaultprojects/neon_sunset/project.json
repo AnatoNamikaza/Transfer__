@@ -1,0 +1,107 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "Customizable neon sunset. Lots of custom shaders.\r\n\r\n- Customizable colors for everything.\r\n- Infinite scrolling terrain.\r\n- VHS noise and glitch effects.\r\n\r\n[h1]UPDATED 31-10-2018\r\nYou need the last version of Wallpaper Engine or this wallpaper won't work right so if you have issues, make sure Steam updated the program.[/h1]\r\nThe update added sliders for the amount of noise, height of the terrain and flat shading. There's also a new horizon effect and you can change its glow color separately from the clouds.\r\n\r\n[h1]UPDATED 02-11-2018[/h1]\r\nBetter procedural texture filtering. Less flickering on flat ground, sharper lines on high ground in the distance.\r\n\r\nProject files (02-11-2018): https://drive.google.com/open?id=1HyrfbGOs4JWB-4okP3uq9c9Xz7KoUbHA (already uses new sliders, so it won't fully work without the program being updated.)",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"clouds" : 
+			{
+				"order" : 12,
+				"text" : "Clouds",
+				"type" : "color",
+				"value" : "0.027 0.066 0.086"
+			},
+			"colorsunbottom" : 
+			{
+				"order" : 11,
+				"text" : "Sun bottom",
+				"type" : "color",
+				"value" : "1 0 0.35"
+			},
+			"colorsuntop" : 
+			{
+				"order" : 10,
+				"text" : "Sun top",
+				"type" : "color",
+				"value" : "1 0.85 0.05"
+			},
+			"gridbackground" : 
+			{
+				"order" : 15,
+				"text" : "Grid background",
+				"type" : "color",
+				"value" : "0.102 0 0.102"
+			},
+			"gridfar" : 
+			{
+				"order" : 14,
+				"text" : "Grid far",
+				"type" : "color",
+				"value" : "0 0.7 1"
+			},
+			"gridnear" : 
+			{
+				"order" : 13,
+				"text" : "Grid near",
+				"type" : "color",
+				"value" : "1 0 0.49"
+			},
+			"horizon" : 
+			{
+				"order" : 12,
+				"text" : "Horizon",
+				"type" : "color",
+				"value" : "0.055 0.306 0.42"
+			},
+			"mountainscale" : 
+			{
+				"max" : 2,
+				"min" : 0,
+				"order" : 9,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Mountain scale",
+				"type" : "slider",
+				"value" : 2
+			},
+			"noisefx" : 
+			{
+				"max" : 2,
+				"min" : 0,
+				"order" : 8,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Noise FX",
+				"type" : "slider",
+				"value" : 1
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.89 0 0.27"
+			},
+			"shading" : 
+			{
+				"max" : 2,
+				"min" : 0,
+				"order" : 7,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Shading",
+				"type" : "slider",
+				"value" : 1
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Retro" ],
+	"title" : "Neon Sunset",
+	"type" : "scene",
+	"visibility" : "public",
+	"official" : true
+}

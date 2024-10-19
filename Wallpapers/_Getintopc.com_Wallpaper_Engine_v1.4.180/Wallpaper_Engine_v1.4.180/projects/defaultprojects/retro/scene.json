@@ -1,0 +1,48 @@
+{
+	"camera" : 
+	{
+		"center" : "0.000 0.000 0.000",
+		"eye" : "0.000 0.000 1.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : false,
+		"clearcolor" : "0.000 0.000 0.000",
+		"norecompile" : true,
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 2520
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 1,
+			"model" : "models/bgfade/bgfade.mdl",
+			"name" : "bgfade",
+			"origin" : "0.000 0.000 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 2,
+			"image" : "models/retro.json",
+			"name" : "retro",
+			"origin" : "540.000 534.906 0.000",
+			"scale" : "0.533 0.533 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 3,
+			"image" : "models/retro_dots.json",
+			"name" : "retro_dots",
+			"origin" : "1157.188 119.618 0.000",
+			"scale" : "0.743 0.372 1.000"
+		}
+	]
+}

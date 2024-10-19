@@ -1,0 +1,22 @@
+{
+	"shaders": [{
+		"value": "swayimage",
+		"shader": "swayimage",
+		"label": "Tree Sway",
+		"depthtest": "disabled",
+		"depthwrite": "disabled",
+		"blending" : "translucent",
+		"textures": [{
+			"suffix": "",
+			"config": {
+				"nonpoweroftwo" : true
+			}
+		}, {
+			"suffix": "_sway",
+			"config": {
+				"nonpoweroftwo" : true,
+				"clampuvs": true
+			}
+		}]
+	}]
+}

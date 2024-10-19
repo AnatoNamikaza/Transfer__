@@ -1,0 +1,19 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"combos" : {},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "cloudsbg",
+			"textures" : ["_rt_FullFrameBuffer", "clouds_512"],
+			"usershadervalues" :
+			{
+				"clouds" : "clouds",
+				"horizon" : "horizon"
+			}
+		}
+	]
+}

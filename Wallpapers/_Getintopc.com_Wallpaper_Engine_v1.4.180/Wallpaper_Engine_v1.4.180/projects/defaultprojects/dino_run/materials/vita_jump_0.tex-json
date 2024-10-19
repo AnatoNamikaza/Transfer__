@@ -1,0 +1,10 @@
+{
+	"bleedtransparentcolors" : true,
+	"clampuvs" : true,
+	"format" : "rgba8888",
+	"frameduration" : 0.40000000000000002,
+	"imagesequence" : [ "vita_jump_0.png", "vita_jump_1.png" ],
+	"nointerpolation" : true,
+	"nomip" : true,
+	"nonpoweroftwo" : true
+}

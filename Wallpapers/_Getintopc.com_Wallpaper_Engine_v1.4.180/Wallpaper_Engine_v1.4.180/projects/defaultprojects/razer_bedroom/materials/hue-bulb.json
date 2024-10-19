@@ -1,0 +1,22 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"version" : 2
+			},
+			"constantshadervalues" : 
+			{
+				"Alpha" : 0.56000000000000005,
+				"Brightness" : 2
+			},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage2",
+			"textures" : [ "hue-bulb" ]
+		}
+	]
+}

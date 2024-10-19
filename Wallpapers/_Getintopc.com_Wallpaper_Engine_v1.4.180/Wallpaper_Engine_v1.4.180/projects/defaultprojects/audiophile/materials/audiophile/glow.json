@@ -1,0 +1,12 @@
+{
+	"passes": [{
+		"shader": "audiophileglow",
+		"depthwrite": "disabled",
+		"depthtest": "disabled",
+		"blending": "additive",
+		"textures": ["audiophile/glow"],
+		"usershadervalues": {
+			"schemecolor": "tint"
+		}
+	}]
+}

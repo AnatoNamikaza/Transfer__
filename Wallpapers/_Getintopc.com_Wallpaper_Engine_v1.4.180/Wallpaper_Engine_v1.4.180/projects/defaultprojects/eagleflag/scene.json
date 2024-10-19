@@ -1,0 +1,32 @@
+{
+	"camera" : 
+	{
+		"center" : "-378.290 -185.706 -1.000",
+		"eye" : "-378.290 -185.706 0.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : false,
+		"clearcolor" : "0.700 0.700 0.700",
+		"norecompile" : true,
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 2200
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 2,
+			"image" : "models/eagle.json",
+			"name" : "eagle",
+			"origin" : "1082.000 550.906 0.000",
+			"scale" : "1.100 1.100 1.000"
+		}
+	]
+}

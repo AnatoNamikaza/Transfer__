@@ -1,0 +1,40 @@
+{
+	"file" : "scene.json",
+	"authorsteamid": "76561197975619619",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"value" : "0.608 0.36 0.412",
+				"text" : "Background color",
+				"type" : "color"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"templateoptions" : 
+	[
+		{
+			"configured" : true,
+			"description" : "Replace the background image. It should contain water of some sort that you want to animate. The recommended image size is 1920 x 1080 pixels.",
+			"destination" : "materials/background.png",
+			"last" : "C:/Users/Kristjan/Desktop/spacewp/galaxy_2_bg.png",
+			"name" : "Background image",
+			"type" : "replacetexture"
+		},
+		{
+			"configured" : true,
+			"description" : "Replace the water flow mask. The image can generally be a lot smaller than your background image, like 480 x 270. The red channel defines horizontal water flow, the green channel controls vertical water flow. Make sure to check out the tutorial!",
+			"destination" : "materials/flowmask.png",
+			"last" : "C:/Users/Kristjan/Desktop/spacewp/galaxy_2_flow.png",
+			"name" : "Water flow mask",
+			"type" : "replacetexture"
+		}
+	],
+	"title" : "Deep Space",
+	"type" : "scene",
+	"visibility" : "public"
+}

@@ -1,0 +1,113 @@
+{
+	"skins" :
+	[
+		{
+			"label" : "ui_settings_skin_halloween",
+			"key" : "halloween",
+			"stylesheet" : "styles/skinhalloween.css",
+			"backgroundcolor" : "17 17 21",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 14,
+				"color" : "255 87 34 128"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_obsidian",
+			"key" : "obsidian",
+			"stylesheet" : "styles/skinobsidian.css",
+			"backgroundcolor" : "9 9 9",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 8,
+				"color" : "255 255 255 64"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_mist",
+			"key" : "mist",
+			"stylesheet" : "styles/skinmist.css",
+			"backgroundcolor" : "234 238 245",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 16,
+				"color" : "255 255 255 64"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_rose",
+			"key" : "rose",
+			"stylesheet" : "styles/skinrose.css",
+			"backgroundcolor" : "235 240 251",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 16,
+				"color" : "204 26 122 128"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_moss",
+			"key" : "moss",
+			"stylesheet" : "styles/skinmoss.css",
+			"backgroundcolor" : "20 22 20",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 14,
+				"color" : "122 204 0 64"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_rust",
+			"key" : "rust",
+			"stylesheet" : "styles/skinrust.css",
+			"backgroundcolor" : "17 17 17",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 8,
+				"color" : "255 210 160 64"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_metal",
+			"key" : "metal",
+			"stylesheet" : "styles/skinmetal.css",
+			"backgroundcolor" : "220 220 220",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 10,
+				"color" : "255 255 255 128"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_space",
+			"key" : "space",
+			"stylesheet" : "styles/skinspace.css",
+			"backgroundcolor" : "15 16 21",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 20,
+				"color" : "25 118 210 128"
+			}
+		},
+		{
+			"label" : "ui_settings_skin_winter",
+			"key" : "winter",
+			"stylesheet" : "styles/skinwinter.css",
+			"backgroundcolor" : "14 26 34",
+			"shadow" :
+			{
+				"enabled" : true,
+				"size" : 10,
+				"color" : "110 160 185 128"
+			}
+		}
+	]
+}

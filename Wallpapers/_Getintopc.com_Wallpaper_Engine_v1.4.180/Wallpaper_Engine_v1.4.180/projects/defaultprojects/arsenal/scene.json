@@ -1,0 +1,56 @@
+{
+	"camera" : 
+	{
+		"center" : "-2.372 1.715 3.996",
+		"eye" : "-2.321 2.454 4.668",
+		"paths" : [ "scripts/camera_00.json" ],
+		"up" : "-0.165 0.986 0.028"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.000 0.000 0.000",
+		"bloom" : true,
+		"norecompile" : true,
+		"clearcolor" : "0.000 0.000 0.000",
+		"skylightcolor" : "0.396 0.329 0.200"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 1,
+			"model" : "models/pistols/pistols.mdl",
+			"name" : "pistols",
+			"origin" : "0.000 -0.038 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"color" : "1.000 1.000 1.000",
+			"id" : 2,
+			"intensity" : 1.8700000047683716,
+			"light" : "point",
+			"model" : null,
+			"name" : "",
+			"origin" : "-1.110 2.460 0.335",
+			"particle" : null,
+			"radius" : 16.319999694824219,
+			"scale" : "1.000 1.000 1.000",
+			"sprite" : null
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"color" : "0.890 0.690 0.086",
+			"id" : 3,
+			"intensity" : 0.18000000715255737,
+			"light" : "point",
+			"model" : null,
+			"name" : "",
+			"origin" : "-1.105 4.002 0.347",
+			"particle" : null,
+			"radius" : 22.850000381469727,
+			"scale" : "1.000 1.000 1.000",
+			"sprite" : null
+		}
+	]
+}

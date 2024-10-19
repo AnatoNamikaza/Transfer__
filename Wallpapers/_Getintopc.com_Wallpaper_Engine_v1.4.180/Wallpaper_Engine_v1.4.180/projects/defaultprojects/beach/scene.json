@@ -1,0 +1,48 @@
+{
+	"camera" : 
+	{
+		"center" : "0.000 0.000 -1.000",
+		"eye" : "0.000 0.000 0.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : false,
+		"norecompile" : true,
+		"clearcolor" : "0.700 0.700 0.700",
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 1920
+		},
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 1,
+			"image" : "models/beach.json",
+			"name" : "beach",
+			"origin" : "958.708 618.892 0.000",
+			"scale" : "1.285 1.285 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 2,
+			"image" : "models/clouds.json",
+			"name" : "clouds",
+			"origin" : "935.138 361.862 0.000",
+			"scale" : "7.656 7.656 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 3,
+			"image" : "models/palms.json",
+			"name" : "palms",
+			"origin" : "934.606 602.302 0.000",
+			"scale" : "1.304 1.304 1.000"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"file" : "scene.json",
+	"preview" : "preview.jpg",
+	"title" : "Arsenal",
+	"type" : "scene",
+	"visibility" : "public",
+	"authorsteamid": "76561197975619619",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"text" : "Background color",
+				"type" : "color",
+				"value" : "0.22 0.17 0.125"
+			}
+		}
+	}
+}

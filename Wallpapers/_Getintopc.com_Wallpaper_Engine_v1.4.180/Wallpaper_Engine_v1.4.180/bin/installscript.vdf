@@ -1,0 +1,25 @@
+"InstallScript"
+{
+	"Run Process On Uninstall"
+	{
+		"Process_name"
+		{
+			"Process 1"		"%INSTALLDIR%\\launcher.exe"
+			"Command 1"		"-uninstall"
+		}
+	}
+	"Run Process"
+	{
+		"Fix Windows Network Media Throttle"
+		{
+			"HasRunKey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\431960\\disableNetworkThrottle"
+			"Process 1"		"%INSTALLDIR%\\launcher.exe"
+			"Command 1"		"-disablenetworkthrottle"
+			"NoCleanUp"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"5a922663731621868ca81d762f7a2d1415444ffa658e1aa21d3081151241fdb3448ba96e3253181e14493d29e89d9f4c9566f240507d64d5014f58fbeda94e5ba9e7c3c6027e90f9a6bb25d143fcaacfddd92146181c2fd0902a9a094b9b03f4066b1f56bd280455a2bba7d5911a9e2bb3a18e2455e8763d8a1ca1eddd9fa325"
+}

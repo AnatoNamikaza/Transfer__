@@ -1,0 +1,15 @@
+{
+	"passes": [{
+		"shader": "technoorbit",
+		"depthwrite": "disabled",
+		"depthtest": "disabled",
+		"blending": "additive",
+		"textures": ["techno/technoclouds", "techno/technoclouds2"],
+		"combos": {
+			"clouds": 1
+		},
+		"usershadervalues": {
+			"schemecolor": "tint"
+		}
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	"Platform" : "Steam China",
+	"PLATFORM" : "STEAM",
+	"Sdk" : "Steamworks",
+	"Provider" : "Valve",
+	"PROVIDER" : "VALVE",
+	"Host" : "Workshop",
+	"support_email" : "support@wallpaperengine.io",
+	"var_url_faq" : "https://help.wallpaperengine.io",
+	"var_url_faqdownloads" : "https://help.wallpaperengine.io/steam/download",
+	"var_url_faqredownload" : "https://help.wallpaperengine.io/steam/redownload",
+	"var_url_faqsteam" : "https://help.wallpaperengine.io/steam/steamworks",
+	"var_url_discussions" : "steam://url/GameHub/431960\\discussions",
+	"var_url_sendsupportmail" : "mailto:support@wallpaperengine.io?Subject=Application%20Support%20(Steam China)",
+	"var_url_userpage" : "steam://url/SteamIDPage/{{id}}",
+	"var_url_providerrules" : "http://store.steampowered.com/subscriber_agreement/",
+	"var_url_translations" : "steam://url/GameHub/431960\\discussions\\7\\215439774876424597",
+	"var_url_store" : "https://store.steampowered.com/app/431960"
+}

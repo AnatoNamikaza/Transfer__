@@ -1,0 +1,26 @@
+{
+	"passes" : 
+	[
+		{
+			"combos" : 
+			{
+				"TINT" : 0
+			},
+			"constantshadervalues" : 
+			{
+				"Speed" : 0.40000000596046448,
+				"Strength" : 0.5
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "flag",
+			"textures" : [ "flag", "flag_normal", "cloth" ],
+			"usershadervalues" : 
+			{
+				"flagcolor1" : "color2",
+				"flagcolor2" : "color3",
+				"schemecolor" : "color1"
+			}
+		}
+	]
+}

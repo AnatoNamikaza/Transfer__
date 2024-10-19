@@ -1,0 +1,16 @@
+{
+	"passes": [{
+		"shader": "particle",
+		"depthwrite": "disabled",
+		"blending": "additive",
+		"cullmode":"nocull",
+		"textures": ["particle/dustmote"],
+		"usershadervalues": {
+			"schemecolor": "color1",
+			"color2": "color2"
+		},
+		"combos": {
+			"USERCOLORBLEND" : 1
+		}
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	"bleedtransparentcolors" : true,
+	"clampuvs" : true,
+	"format" : "rgba8888",
+	"frameduration" : 0.20000000298023224,
+	"imagesequence" : [ "coin_0.png", "coin_1.png", "coin_2.png", "coin_3.png" ],
+	"nointerpolation" : true,
+	"nomip" : true,
+	"nonpoweroftwo" : true
+}

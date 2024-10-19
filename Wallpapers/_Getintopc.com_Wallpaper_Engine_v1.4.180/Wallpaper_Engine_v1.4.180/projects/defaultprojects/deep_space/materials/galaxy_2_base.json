@@ -1,0 +1,11 @@
+{
+	"passes" : 
+	[
+		{
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage",
+			"textures" : [ "galaxy_2_base" ]
+		}
+	]
+}

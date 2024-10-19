@@ -1,0 +1,8 @@
+{
+	"passes": [{
+		"shader": "ricepodjet",
+		"textures": ["ricepod/jet"],
+		"cullmode": "nocull",
+		"blending": "additive"
+	}]
+}

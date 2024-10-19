@@ -1,0 +1,296 @@
+{
+  "description": "A collection of iCUE enabled CORSAIR wallpapers",
+  "file": "index.html",
+  "preview" : "preview.gif",
+  "general": {
+    "properties": {
+      "scene": {
+        "order": 1,
+        "text": "Scene",
+        "type": "combo",
+        "value": "circuit",
+        "options": [
+          {
+            "value": "circuit",
+            "label": "Circuit"
+          },
+          {
+            "value": "brick",
+            "label": "Brick"
+          },
+          {
+            "value": "city",
+            "label": "City"
+          },
+          {
+            "value": "ram",
+            "label": "Vengeance"
+          },
+          {
+            "value": "cartoon",
+            "label": "Cartoon"
+          }
+        ]
+      },
+      "schemecolor": {
+        "order": 2,
+        "text": "Scene color scheme",
+        "type": "color",
+        "value": "0 0 0"
+      },
+      "logo": {
+        "order": 3,
+        "text": "Logo",
+        "type": "combo",
+        "value": "icue",
+        "options": [
+          {
+            "value": "icue",
+            "label": "iCUE"
+          },
+          {
+            "value": "corsair",
+            "label": "CORSAIR"
+          }
+        ],
+        "condition": "scene.value !== 'cartoon' && scene.value !== 'ram'"
+      },
+      "logox": {
+        "order": 4,
+        "text": "Logo X position",
+        "type": "slider",
+        "value": 50,
+        "min": 0,
+        "max": 100,
+        "condition": "scene.value !== 'cartoon' && scene.value !== 'ram'"
+      },
+      "logoy": {
+        "order": 5,
+        "text": "Logo Y position",
+        "type": "slider",
+        "value": 50,
+        "min": 0,
+        "max": 100,
+        "condition": "scene.value !== 'cartoon' && scene.value !== 'ram'"
+      },
+      "effect": {
+        "order": 6,
+        "text": "Effect",
+        "type": "combo",
+        "value": "rainbowpulse",
+        "options": [
+          {
+            "value": "wave",
+            "label": "Wave"
+          },
+          {
+            "value": "rainbowwave",
+            "label": "Rainbow Wave"
+          },
+          {
+            "value": "visor",
+            "label": "Visor"
+          },
+          {
+            "value": "pulse",
+            "label": "Pulse"
+          },
+          {
+            "value": "rainbowpulse",
+            "label": "Rainbow Pulse"
+          },
+          {
+            "value": "spiral",
+            "label": "Spiral"
+          },
+          {
+            "value": "rainbowspiral",
+            "label": "Rainbow Spiral"
+          }
+        ]
+      },
+      "wavedirection": {
+        "order": 7,
+        "text": "Wave direction",
+        "type": "combo",
+        "value": "right",
+        "options": [
+          {
+            "value": "up",
+            "label": "Up"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          },
+          {
+            "value": "down",
+            "label": "Down"
+          },
+          {
+            "value": "left",
+            "label": "Left"
+          }
+        ],
+        "condition": "effect.value.endsWith('wave') === true"
+      },
+      "visordirection": {
+        "order": 7,
+        "text": "Visor direction",
+        "type": "combo",
+        "value": "vertical",
+        "options": [
+          {
+            "value": "vertical",
+            "label": "Vertical"
+          },
+          {
+            "value": "horizontal",
+            "label": "Horizontal"
+          }
+        ],
+        "condition": "effect.value === 'visor'"
+      },
+      "pulseanimation": {
+        "order": 7,
+        "text": "Pulse animation",
+        "type": "combo",
+        "value": "random",
+        "options": [
+          {
+            "value": "random",
+            "label": "Random"
+          },
+          {
+            "value": "heartbeat",
+            "label": "Heartbeat"
+          },
+          {
+            "value": "mousespeed",
+            "label": "Mouse speed"
+          },
+          {
+            "value": "static",
+            "label": "Static size"
+          }
+        ],
+        "condition": "effect.value.endsWith('pulse') === true"
+      },
+      "pulsesize": {
+        "order": 8,
+        "text": "Pulse size",
+        "type": "slider",
+        "value": 2,
+        "min": 1,
+        "max": 20,
+        "condition": "effect.value.endsWith('pulse') === true && pulseanimation.value === 'static'"
+      },
+      "pulsescale": {
+        "order": 9,
+        "text": "Pulse scale",
+        "type": "slider",
+        "value": 100,
+        "min": 20,
+        "max": 400,
+        "condition": "effect.value.endsWith('pulse') === true && pulseanimation.value !== 'static'"
+      },
+      "spiralposition": {
+        "order": 7,
+        "text": "Spiral position",
+        "type": "combo",
+        "value": "center",
+        "options": [
+          {
+            "value": "center",
+            "label": "Center"
+          },
+          {
+            "value": "top",
+            "label": "Top"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          },
+          {
+            "value": "bottom",
+            "label": "Bottom"
+          },
+          {
+            "value": "left",
+            "label": "Left"
+          }
+        ],
+        "condition": "effect.value.endsWith('spiral') === true && scene.value !== 'ram'"
+      },
+      "spiralpositionram": {
+        "order": 7,
+        "text": "Spiral position",
+        "type": "combo",
+        "value": "top",
+        "options": [
+          {
+            "value": "top",
+            "label": "Top"
+          },
+          {
+            "value": "right",
+            "label": "Right"
+          },
+          {
+            "value": "bottom",
+            "label": "Bottom"
+          },
+          {
+            "value": "left",
+            "label": "Left"
+          }
+        ],
+        "condition": "effect.value.endsWith('spiral') === true && scene.value === 'ram'"
+      },
+      "spiraldirection": {
+        "order": 8,
+        "text": "Spiral direction",
+        "type": "combo",
+        "value": "right",
+        "options": [
+          {
+            "value": "right",
+            "label": "Clockwise"
+          },
+          {
+            "value": "left",
+            "label": "Counterclockwise"
+          }
+        ],
+        "condition": "effect.value.endsWith('spiral') === true"
+      },
+      "speed": {
+        "order": 10,
+        "text": "Effect speed",
+        "type": "slider",
+        "value": 2,
+        "min": 1,
+        "max": 10,
+        "editable": true
+      },
+      "maincolor": {
+        "order": 11,
+        "text": "Main effect color",
+        "type": "color",
+        "condition": "effect.value.startsWith('rainbow') === false",
+        "value": "1 0 0"
+      },
+      "secondarycolor": {
+        "order": 12,
+        "text": "Secondary effect color",
+        "type": "color",
+        "condition": "effect.value.startsWith('rainbow') === false",
+        "value": "0.984313725490196 1 0"
+      }
+    }
+  },
+  "title": "CORSAIR Collection",
+  "type": "web",
+  "official" : true
+}

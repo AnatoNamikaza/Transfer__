@@ -1,0 +1,19 @@
+{
+	"passes" : 
+	[
+		{
+			"constantshadervalues" : 
+			{
+				"Light" : 0,
+				"Metal" : 0,
+				"Rough" : 0
+			},
+			"shader" : "core",
+			"textures" : [ "core/core" ],
+			"usershadervalues" : 
+			{
+				"schemecolor" : "tint"
+			}
+		}
+	]
+}

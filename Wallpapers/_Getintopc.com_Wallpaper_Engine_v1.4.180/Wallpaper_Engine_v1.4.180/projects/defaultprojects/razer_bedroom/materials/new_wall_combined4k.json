@@ -1,0 +1,18 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"version" : 2
+			},
+			"constantshadervalues" : {},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage2",
+			"textures" : [ "new_wall_combined4k" ]
+		}
+	]
+}

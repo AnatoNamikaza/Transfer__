@@ -1,0 +1,8 @@
+{
+	"passes": [{
+		"shader": "skybox",
+		"textures": ["ricepod/skybox"],
+		"depthwrite": "disabled",
+		"depthtest": "disabled"
+	}]
+}

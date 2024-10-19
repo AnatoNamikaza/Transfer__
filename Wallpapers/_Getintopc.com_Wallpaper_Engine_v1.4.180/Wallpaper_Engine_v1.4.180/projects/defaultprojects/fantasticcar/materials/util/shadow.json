@@ -1,0 +1,6 @@
+{
+	"passes": [{
+		"shader": "shadow",
+		"blending": "translucent"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"constantshadervalues" : 
+			{
+				"Alpha" : 1,
+				"Amount" : 1,
+				"Bright" : 1,
+				"Power" : 1,
+				"Speed" : 0.0099999997764825821,
+				"Speed0" : 0.0099999997764825821,
+				"Speed1" : 0.019999999552965164,
+				"Speed2" : 0.039999999105930328
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "flowimage",
+			"textures" : [ "flowmask", "galaxy_layer_2", "galaxy_layer_1", "galaxy_layer_0" ]
+		}
+	]
+}

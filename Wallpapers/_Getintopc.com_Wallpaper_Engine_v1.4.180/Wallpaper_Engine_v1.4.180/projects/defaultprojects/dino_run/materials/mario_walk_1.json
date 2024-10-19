@@ -1,0 +1,21 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"spritesheet" : 1
+			},
+			"constantshadervalues" : 
+			{
+				"Alpha" : 1
+			},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage2",
+			"textures" : [ "vita_walk_01" ]
+		}
+	]
+}

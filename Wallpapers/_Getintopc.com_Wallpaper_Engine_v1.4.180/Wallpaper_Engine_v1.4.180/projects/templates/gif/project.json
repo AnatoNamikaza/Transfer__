@@ -1,0 +1,37 @@
+{
+	"file" : "gifscene.json",
+	"templateoptions": [{
+		"type": "replacetexture",
+		"parameters" : {
+			"animatedonly" : true
+		},
+		"name": "GIF background",
+		"description": "Import a GIF to be displayed as the wallpaper. Enable 'Compressed' prior to importing if your GIF has a lot of frames or a large resolution. 'Point filter' makes GIFs sharp, useful for pixel art.",
+		"destination": "materials/background.gif",
+		"guide": "",
+		"adjustprojection": true,
+		"options": [{
+			"type": "checkbox",
+			"label": "Compressed (DXT5)",
+			"key": "gif_compression",
+			"texture": "materials/background.tex.json",
+			"value": false
+		}, {
+			"type": "checkbox",
+			"label": "Point filter (crisp image)",
+			"key": "gif_pointfilter",
+			"texture": "materials/background.tex.json",
+			"value": true
+		}, {
+			"type": "slider",
+			"label": "Noise reduction",
+			"key": "bilteralfilter",
+			"texture": "materials/background.tex.json",
+			"value": 0.0,
+			"min": 0,
+			"max": 100
+		}, {
+			"key": "schemeColorFromDominantColor"
+		}]
+	}]
+}

@@ -1,0 +1,5 @@
+{
+	"material" : "materials/flag.json",
+	"nopadding" : true,
+	"autosize" : true
+}

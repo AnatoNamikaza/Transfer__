@@ -1,0 +1,18 @@
+{
+	"bleedtransparentcolors" : true,
+	"clampuvs" : true,
+	"format" : "rgba8888",
+	"frameduration" : 0.10000000000000001,
+	"imagesequence" : 
+	[
+		"vita_walk_01.png",
+		"vita_walk_02.gif",
+		"vita_walk_03.gif",
+		"vita_walk_04.gif",
+		"vita_walk_05.gif",
+		"vita_walk_06.gif"
+	],
+	"nointerpolation" : true,
+	"nomip" : true,
+	"nonpoweroftwo" : true
+}

@@ -1,0 +1,51 @@
+newmtl Body_13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd body.png
+Ni 1.00
+newmtl Glass_lightSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.60 0.60 0.60
+map_Kd glass.png
+Ni 1.00
+newmtl Matte_13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd matte.png
+Ni 1.00
+newmtl Steering_wheelSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd interior.png
+Ni 1.00
+newmtl Taillight_13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd taillights.png
+Ni 1.00
+newmtl Wheel_Back_RSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd wheel.png
+Ni 1.00
+newmtl shadow:phongE8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd shadow.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06

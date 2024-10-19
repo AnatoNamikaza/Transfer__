@@ -1,0 +1,18 @@
+{
+	"title": "Audiophile",
+	"preview": "preview.jpg",
+	"file": "audiophile.json",
+	"timestamp": 0,
+	"authorsteamid": "76561197975619619",
+	"official" : true,
+	"general": {
+		"supportsaudioprocessing": true,
+		"properties": {
+			"schemecolor": {
+				"type": "color",
+				"text": "Scheme color",
+				"value": "0.45 1 0.1"
+			}
+		}
+	}
+}

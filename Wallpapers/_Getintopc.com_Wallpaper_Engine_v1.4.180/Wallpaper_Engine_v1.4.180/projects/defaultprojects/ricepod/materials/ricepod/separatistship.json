@@ -1,0 +1,6 @@
+{
+	"passes": [{
+		"shader": "ricepod",
+		"textures": ["ricepod/separatistship"]
+	}]
+}

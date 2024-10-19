@@ -1,0 +1,56 @@
+{
+	"camera" : 
+	{
+		"center" : "4.041 1.406 4.331",
+		"eye" : "4.640 1.520 5.124",
+		"paths" : [ "scripts/camera_00.json" ],
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"ambientcolor" : "0.300 0.300 0.300",
+		"bloom" : true,
+		"norecompile" : true,
+		"camerafade" : false,
+		"clearcolor" : "0.700 0.700 0.700",
+		"skylightcolor" : "0.300 0.300 0.300"
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0.000 0.000 0.000",
+			"color" : "1.000 1.000 1.000",
+			"id" : 5,
+			"intensity" : 0.67000001668930054,
+			"light" : "point",
+			"name" : "",
+			"origin" : "3.106 2.692 -0.204",
+			"radius" : 17.129999160766602,
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 6,
+			"model" : "models/core/core.mdl",
+			"name" : "core",
+			"origin" : "0.000 0.000 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 7,
+			"model" : "models/backgroundsphere/backgroundsphere.mdl",
+			"name" : "backgroundsphere",
+			"origin" : "0.000 0.000 0.000",
+			"scale" : "1.000 1.000 1.000"
+		},
+		{
+			"angles" : "0.000 0.000 0.000",
+			"id" : 8,
+			"name" : "",
+			"origin" : "0.000 0.000 0.000",
+			"particle" : "particles/particles.json",
+			"scale" : "1.000 1.000 1.000"
+		}
+	]
+}

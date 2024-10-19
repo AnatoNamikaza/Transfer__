@@ -1,0 +1,30 @@
+{
+	"camera" : 
+	{
+		"center" : "0 0 -1.000",
+		"eye" : "0 0 0.000",
+		"up" : "0.000 1.000 0.000"
+	},
+	"general" : 
+	{
+		"bloom" : false,
+		"clearcolor" : "0.000 0.00 0.000",
+		"orthogonalprojection" : 
+		{
+			"height" : 1080,
+			"width" : 1920
+		},
+		"spritesheetrefreshsync" : true
+	},
+	"objects" : 
+	[
+		{
+			"angles" : "0 0 0",
+			"id" : 1,
+			"image" : "models/background.json",
+			"origin" : "0 0 0",
+			"scale" : "1 1 1",
+			"locktransforms" : true
+		}
+	]
+}

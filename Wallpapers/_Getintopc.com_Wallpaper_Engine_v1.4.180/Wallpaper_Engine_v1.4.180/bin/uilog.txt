@@ -1,0 +1,204 @@
+2024-07-08T12:57:27Z, 5408: QDC paths 3, modes 6, query 2, method 0
+2024-07-08T12:57:27Z, 5408: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-08T12:57:27Z, 5408: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-08T12:57:27Z, 5408: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID224795#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-08T12:57:27Z, 5408: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-08T12:57:27Z, 5408: QDC Monitor path 2. Source name \\.\DISPLAY3, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198203#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 5 / 0, target mode 4
+2024-07-08T12:57:27Z, 5408: QDC path 2 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 5) position -1920 0 width 1920 height 1080 rotation 1
+2024-07-08T12:57:27Z, 5408: Steam init successful: 1
+2024-07-09T06:52:14Z, 1772: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:52:14Z, 1772: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:14Z, 1772: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:14Z, 1772: Steam init successful: 1
+2024-07-09T06:52:34Z, 244: QDC paths 1, modes 2, query 2, method 2
+2024-07-09T06:52:34Z, 244: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:34Z, 244: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:34Z, 244: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-09T06:52:36Z, 6592: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:52:36Z, 6592: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:36Z, 6592: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:36Z, 6592: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T06:52:38Z, 244: CefEngine::OnContextInitialized
+2024-07-09T06:52:38Z, 8904: Steam init successful: 1
+2024-07-09T06:52:39Z, 8904: Writing 0 wallpapers to cache.
+2024-07-09T06:52:40Z, 3340: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:52:40Z, 3340: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:40Z, 3340: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:40Z, 3340: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T06:52:46Z, 9620: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:52:46Z, 9620: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:46Z, 9620: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:46Z, 9620: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T06:52:51Z, 9620: CefEngine::OnContextCreated
+2024-07-09T06:52:54Z, 9620: CefEngine::OnContextCreated
+2024-07-09T06:52:54Z, 3828: QDC paths 1, modes 2, query 2, method 2
+2024-07-09T06:52:54Z, 3828: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:54Z, 3828: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:54Z, 3828: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/settings
+2024-07-09T06:52:54Z, 3828: CefEngine::OnContextInitialized
+2024-07-09T06:52:55Z, 6224: QDC paths 1, modes 2, query 2, method 0
+
+2024-07-09T06:52:55Z, 10360: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:55Z, 6224: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+
+2024-07-09T06:52:55Z, 10360: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T06:52:56Z, 6844: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:52:56Z, 6844: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:52:56Z, 6844: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:52:56Z, 6844: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T06:52:56Z, 6844: CefEngine::OnContextCreated
+2024-07-09T06:52:57Z, 2928: Received IPC message from main process: 200
+2024-07-09T06:53:16Z, 11940: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T06:53:16Z, 11940: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06F#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T06:53:16Z, 11940: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T06:53:16Z, 11940: Wallpaper service is installed.
+2024-07-09T06:53:26Z, 3828: UI CEF shutdown
+2024-07-09T06:53:36Z, 244: UI CEF shutdown
+2024-07-09T08:01:34Z, 13216: QDC paths 2, modes 4, query 2, method 2
+2024-07-09T08:01:34Z, 13216: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T08:01:34Z, 13216: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:34Z, 13216: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T08:01:34Z, 13216: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:34Z, 13216: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-09T08:01:38Z, 13288: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T08:01:38Z, 13288: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T08:01:38Z, 13288: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:38Z, 13288: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T08:01:38Z, 13288: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:38Z, 13288: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T08:01:41Z, 13216: CefEngine::OnContextInitialized
+2024-07-09T08:01:42Z, 12644: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T08:01:42Z, 12644: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T08:01:42Z, 12644: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:42Z, 12644: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T08:01:42Z, 12644: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:42Z, 12644: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T08:01:44Z, 5436: Steam init successful: 1
+2024-07-09T08:01:44Z, 5436: Writing 0 wallpapers to cache.
+2024-07-09T08:01:45Z, 11876: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T08:01:45Z, 11876: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T08:01:45Z, 11876: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:45Z, 11876: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T08:01:45Z, 11876: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T08:01:45Z, 11876: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T08:01:48Z, 11876: CefEngine::OnContextCreated
+2024-07-09T08:01:50Z, 11876: CefEngine::OnContextCreated
+2024-07-09T08:02:10Z, 13216: UI CEF shutdown
+2024-07-09T13:27:51Z, 2072: QDC paths 1, modes 2, query 2, method 2
+2024-07-09T13:27:52Z, 2072: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:27:52Z, 2072: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:27:52Z, 2072: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-09T13:27:52Z, 2072: CefEngine::OnContextInitialized
+2024-07-09T13:27:52Z, 1552: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T13:27:52Z, 1552: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:27:52Z, 7052: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:27:52Z, 1552: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:27:52Z, 7052: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:27:52Z, 7052: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:27:52Z, 1552: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:27:52Z, 7216: Steam init successful: 1
+2024-07-09T13:27:53Z, 7216: Writing 0 wallpapers to cache.
+2024-07-09T13:27:58Z, 8304: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T13:27:58Z, 8304: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:27:58Z, 8304: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:27:58Z, 8304: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:28:26Z, 8304: CefEngine::OnContextCreated
+2024-07-09T13:28:44Z, 8304: CefEngine::OnContextCreated
+2024-07-09T13:29:52Z, 9964: QDC paths 1, modes 2, query 2, method 0
+2024-07-09T13:29:52Z, 9964: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:29:52Z, 9964: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:29:52Z, 9964: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:30:04Z, 2072: UI CEF shutdown
+2024-07-09T13:35:24Z, 1912: QDC paths 2, modes 4, query 2, method 2
+2024-07-09T13:35:24Z, 1912: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:35:24Z, 1912: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 1912: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T13:35:24Z, 1912: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 1912: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-09T13:35:24Z, 1912: CefEngine::OnContextInitialized
+2024-07-09T13:35:24Z, 1648: Steam init successful: 1
+2024-07-09T13:35:24Z, 1648: Writing 0 wallpapers to cache.
+2024-07-09T13:35:24Z, 2224: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T13:35:24Z, 2224: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:35:24Z, 2224: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 2224: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T13:35:24Z, 2224: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 2224: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:35:24Z, 5892: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T13:35:24Z, 1324: QDC paths 2, modes 4, query 2, method 0
+2024-07-09T13:35:24Z, 5892: QDC Monitor path 0. Source name \\.\DISPLAY2, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-09T13:35:24Z, 1324: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 5892: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T13:35:24Z, 1324: QDC Monitor path 1. Source name \\.\DISPLAY1, target name \\?\DISPLAY#Default_Monitor#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-09T13:35:24Z, 1324: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 5892: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-09T13:35:24Z, 1324: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:35:24Z, 5892: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-09T13:35:24Z, 5892: CefEngine::OnContextCreated
+2024-07-09T13:35:25Z, 5892: CefEngine::OnContextCreated
+2024-07-09T13:35:37Z, 1912: UI CEF shutdown
+2024-07-10T06:00:32Z, 316: QDC paths 2, modes 4, query 2, method 2
+2024-07-10T06:00:32Z, 316: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-10T06:00:32Z, 316: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:32Z, 316: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-10T06:00:32Z, 316: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:32Z, 316: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-10T06:00:33Z, 316: CefEngine::OnContextInitialized
+2024-07-10T06:00:33Z, 13768: Steam init successful: 1
+2024-07-10T06:00:33Z, 13768: Writing 0 wallpapers to cache.
+2024-07-10T06:00:34Z, 11620: QDC paths 2, modes 4, query 2, method 0
+2024-07-10T06:00:34Z, 11620: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-10T06:00:34Z, 11620: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:34Z, 11620: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-10T06:00:34Z, 11620: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:34Z, 11620: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-10T06:00:36Z, 8120: QDC paths 2, modes 4, query 2, method 0
+2024-07-10T06:00:36Z, 8120: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-10T06:00:36Z, 8120: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:36Z, 8120: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-10T06:00:36Z, 8120: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:36Z, 8120: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-10T06:00:36Z, 3484: QDC paths 2, modes 4, query 2, method 0
+2024-07-10T06:00:36Z, 3484: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-10T06:00:36Z, 3484: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:36Z, 3484: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-10T06:00:36Z, 3484: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-10T06:00:36Z, 3484: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-10T06:00:36Z, 8120: CefEngine::OnContextCreated
+2024-07-10T06:00:36Z, 8120: CefEngine::OnContextCreated
+2024-07-10T06:02:27Z, 316: UI CEF shutdown
+2024-07-19T07:46:33Z, 5408: QDC paths 2, modes 4, query 2, method 2
+2024-07-19T07:46:34Z, 5408: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-19T07:46:34Z, 5408: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-19T07:46:34Z, 5408: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-19T07:46:34Z, 5408: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-19T07:46:34Z, 5408: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/browsewallpapers
+2024-07-19T07:47:47Z, 9828: QDC paths 2, modes 4, query 2, method 0
+2024-07-19T07:47:47Z, 9828: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-19T07:47:47Z, 9828: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-19T07:47:47Z, 9828: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-19T07:47:47Z, 9828: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-19T07:47:47Z, 9828: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-19T07:47:56Z, 5408: CefEngine::OnContextInitialized
+2024-07-19T07:47:59Z, 1576: QDC paths 2, modes 4, query 2, method 0
+2024-07-19T07:47:59Z, 1576: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-19T07:47:59Z, 1576: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-19T07:47:59Z, 1576: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-19T07:47:59Z, 1576: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-19T07:47:59Z, 1576: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-19T07:47:59Z, 10148: Steam init successful: 1
+2024-07-19T07:49:32Z, 10148: Writing 0 wallpapers to cache.
+2024-07-19T07:49:39Z, 7576: QDC paths 2, modes 4, query 2, method 0
+2024-07-19T07:49:39Z, 7576: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-19T07:49:39Z, 7576: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-19T07:49:39Z, 7576: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-19T07:49:39Z, 7576: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-19T07:49:39Z, 7576: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-19T07:49:49Z, 10292: QDC paths 2, modes 4, query 2, method 0
+2024-07-19T07:49:49Z, 10292: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#DELF06A#4&391f45bf&0&UID198179#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2024-07-19T07:49:49Z, 10292: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2024-07-19T07:49:49Z, 10292: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#ACI22FD#4&391f45bf&0&UID200195#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_8086&DEV_1912&SUBSYS_06B91028&REV_06#3&11583659&0&10#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2024-07-19T07:49:49Z, 10292: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 1920 0 width 1920 height 1080 rotation 1
+2024-07-19T07:49:49Z, 10292: Open URL: file:///E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us#/
+2024-07-19T07:50:24Z, 7576: CefEngine::OnContextCreated
+2024-07-19T07:50:27Z, 7576: CefEngine::OnContextCreated

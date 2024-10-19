@@ -1,0 +1,14 @@
+{
+	"passes": [{
+		"shader": "passthroughblend",
+		"blending": "normal",
+		"depthtest": "disabled",
+		"depthwrite": "disabled",
+		"cullmode": "nocull",
+		"combos": {
+			"TRANSFORM" : 1,
+			"SKINNING" : 1
+		},
+		"textures": [null, "_rt_FullFrameBuffer"]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	"passes" : 
+	[
+		{
+			"shader" : "backgroundsphere",
+			"textures" : [ "backgroundsphere/background_diamond2", "backgroundsphere/background_clouds", "backgroundsphere/background_diamond" ],
+			"usershadervalues": {
+				"schemecolor": "tint",
+				"bgcolor": "tint2"
+			}
+		}
+	]
+}

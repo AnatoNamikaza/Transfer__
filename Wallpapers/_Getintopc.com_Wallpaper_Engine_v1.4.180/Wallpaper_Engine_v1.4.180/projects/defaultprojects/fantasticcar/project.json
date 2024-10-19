@@ -1,0 +1,39 @@
+{
+	"authorsteamid" : "76561197975619619",
+	"file" : "fantasticcar.json",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"carbodycolor" : 
+			{
+				"text" : "Car body color",
+				"type" : "color",
+				"value" : "1 0 0"
+			},
+			"carstripescolor" : 
+			{
+				"text" : "Car stripes color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"rimscolor" : 
+			{
+				"text" : "Rims color",
+				"type" : "color",
+				"value" : "0.753 0.753 0.753"
+			},
+			"schemecolor" : 
+			{
+				"text" : "Background color",
+				"type" : "color",
+				"value" : "0.5725490196078431 0.7098039215686275 0.807843137254902"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "Fantastic Car",
+	"type" : "scene",
+	"visibility" : "public"
+}

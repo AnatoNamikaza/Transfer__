@@ -1,0 +1,4 @@
+2020-12-14T03:07:45Z, 39620: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2020-12-14T03:08:04Z, 7036: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2020-12-14T03:08:05Z, 27680: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2020-12-14T03:08:05Z, 27680: Deny request: 'undefined' is a symlink or not a file (file:///undefined).

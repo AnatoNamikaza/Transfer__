@@ -1,0 +1,28 @@
+{
+	"authorsteamid" : "76561197975619619",
+	"file" : "scene.json",
+	"official" : true,
+	"general" : 
+	{
+		"properties" : 
+		{
+			"bgcolor" : 
+			{
+				"text" : "Background accent",
+				"type" : "color",
+				"value" : "1 0.6470588235294118 0"
+			},
+			"schemecolor" : 
+			{
+				"text" : "Scheme color",
+				"type" : "color",
+				"value" : "1 0 0"
+			}
+		},
+		"supportsaudioprocessing" : true
+	},
+	"preview" : "preview.jpg",
+	"title" : "Demon Core",
+	"type" : "scene",
+	"visibility" : "public"
+}

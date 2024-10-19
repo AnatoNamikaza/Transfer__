@@ -1,0 +1,21 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"constantshadervalues" : {},
+			"combos": {
+				"dots": 1
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "retro",
+			"cullmode" : "nocull",
+			"textures" : [ "retro_dots", "retro_grunge" ],
+			"usershadervalues" : 
+			{
+				"accentcolor" : "tint"
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"passes" : 
+	[
+		{
+			"constantshadervalues" : 
+			{
+				"Alpha" : 1,
+				"Amount" : 1,
+				"Bright" : 1,
+				"Power" : 1,
+				"Scroll 1 Y" : 0,
+				"Speed" : 0.059999998658895493
+			},
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "flowimage",
+			"textures" : [ "beach", "flowmask" ]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"passes": [{
+		"shader": "genericparticle",
+		"depthwrite": "disabled",
+		"depthtest": "disabled",
+		"blending": "additive",
+		"textures": ["particle/particle"],
+		"usershadervalues": {
+			"schemecolor": "tint"
+		}
+	}]
+}

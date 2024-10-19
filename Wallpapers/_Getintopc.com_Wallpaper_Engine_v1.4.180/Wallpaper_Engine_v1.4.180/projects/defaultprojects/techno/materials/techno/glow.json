@@ -1,0 +1,12 @@
+{
+	"passes": [{
+		"shader": "technoglow",
+		"depthwrite": "disabled",
+		"depthtest": "disabled",
+		"blending": "additive",
+		"textures": ["techno/glow"],
+		"usershadervalues": {
+			"schemecolor": "tint"
+		}
+	}]
+}

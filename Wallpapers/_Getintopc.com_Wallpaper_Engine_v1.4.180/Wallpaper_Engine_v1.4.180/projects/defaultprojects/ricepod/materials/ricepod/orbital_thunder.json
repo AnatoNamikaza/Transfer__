@@ -1,0 +1,9 @@
+{
+	"passes": [{
+		"shader": "ricepodorbitalthunder",
+		"textures": ["ricepod/orbital_thunder"],
+		"blending": "additive",
+		"depthwriting": "disabled",
+		"depthtesting": "disabled"
+	}]
+}

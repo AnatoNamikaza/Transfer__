@@ -1,0 +1,20 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "translucent",
+			"combos" : {},
+			"constantshadervalues" : {},
+			"cullmode" : "normal",
+			"depthtest" : "enabled",
+			"depthwrite" : "enabled",
+			"shader" : "neonsun",
+			"textures" : [ "neonsun/neonsun" ],
+			"usershadervalues" : 
+			{
+				"colorsunbottom" : "colorsunbottom",
+				"colorsuntop" : "colorsuntop"
+			}
+		}
+	]
+}

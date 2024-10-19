@@ -1,0 +1,182 @@
+2024-07-08T12:57:34Z, 6640: VerifyFileHashes hash failed for E:\Anato\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\bin/steam_api.dll (d45e99b9f588670a9cf8316243e98d64bce96303915ec3fa0dc2bfdb42099a45 != 44abd6cf539f2a45f749762cdd92a47c15f49e7848361ef49dfe3591e20dc428)
+2024-07-08T12:57:34Z, 6640: VerifyFileHashes hash failed for E:\Anato\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\bin/steam_api64.dll (0016c0eab3d8e29b5c050d7daa792c1d19678a1fdd96f8f09c3ddbd84a6c46f5 != 67b094d16ab0f1216ed94fc95db1281b75c2ebf1e71e583bb0545a0fb73d7765)
+2024-07-09T06:52:25Z, 8464: VerifyFileHashes hash failed for E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\bin/steam_api.dll (d45e99b9f588670a9cf8316243e98d64bce96303915ec3fa0dc2bfdb42099a45 != 44abd6cf539f2a45f749762cdd92a47c15f49e7848361ef49dfe3591e20dc428)
+2024-07-09T06:52:25Z, 8464: VerifyFileHashes hash failed for E:\Abdul Rehman\Wallpapers\_Getintopc.com_Wallpaper_Engine_v1.4.180\Wallpaper_Engine_v1.4.180\bin/steam_api64.dll (0016c0eab3d8e29b5c050d7daa792c1d19678a1fdd96f8f09c3ddbd84a6c46f5 != 67b094d16ab0f1216ed94fc95db1281b75c2ebf1e71e583bb0545a0fb73d7765)
+2024-07-09T07:08:23Z, 2644: icon create failed.
+2024-07-09T07:08:24Z, 2644: icon create failed.
+2024-07-09T07:08:24Z, 2644: icon validation failed.
+2024-07-09T07:08:25Z, 2644: icon create failed.
+2024-07-09T07:08:25Z, 2644: icon validation failed.
+2024-07-09T07:08:26Z, 2644: icon create failed.
+2024-07-09T07:08:26Z, 2644: icon validation failed.
+2024-07-09T07:08:27Z, 2644: icon create failed.
+2024-07-09T07:08:27Z, 2644: icon validation failed.
+2024-07-09T07:08:29Z, 2644: icon validated.
+2024-07-09T07:08:54Z, 2644: icon validated.
+2024-07-09T07:12:04Z, 2644: icon validated.
+2024-07-09T07:16:15Z, 2644: icon validated.
+2024-07-09T07:17:28Z, 2644: icon validated.
+2024-07-09T07:21:59Z, 2644: icon validated.
+2024-07-09T07:28:50Z, 2644: icon validated.
+2024-07-09T07:29:40Z, 2644: icon validated.
+2024-07-09T07:30:51Z, 2644: icon validated.
+2024-07-09T08:33:51Z, 7792: icon create failed.
+2024-07-09T08:33:53Z, 7792: icon validated.
+2024-07-09T08:34:29Z, 7792: icon validated.
+2024-07-09T08:41:35Z, 7792: icon validated.
+2024-07-09T08:42:32Z, 7792: icon validated.
+2024-07-09T08:44:54Z, 7792: icon validated.
+2024-07-09T13:01:04Z, 3100: icon validated.
+2024-07-09T13:01:07Z, 3100: icon validated.
+2024-07-09T13:11:43Z, 3100: icon validated.
+2024-07-09T13:12:50Z, 3100: icon validated.
+2024-07-09T13:27:52Z, 4384: icon create failed.
+2024-07-09T13:27:53Z, 4384: icon create failed.
+2024-07-09T13:27:53Z, 4384: icon validation failed.
+2024-07-09T13:27:54Z, 4384: icon create failed.
+2024-07-09T13:27:54Z, 4384: icon validation failed.
+2024-07-09T13:27:55Z, 4384: icon create failed.
+2024-07-09T13:27:55Z, 4384: icon validation failed.
+2024-07-09T13:27:56Z, 4384: icon create failed.
+2024-07-09T13:27:56Z, 4384: icon validation failed.
+2024-07-09T13:27:57Z, 4384: icon create failed.
+2024-07-09T13:27:57Z, 4384: icon validation failed.
+2024-07-09T13:27:59Z, 4384: icon create failed.
+2024-07-09T13:27:59Z, 4384: icon validation failed.
+2024-07-09T13:28:00Z, 4384: icon create failed.
+2024-07-09T13:28:00Z, 4384: icon validation failed.
+2024-07-09T13:28:01Z, 4384: icon create failed.
+2024-07-09T13:28:01Z, 4384: icon validation failed.
+2024-07-09T13:28:02Z, 4384: icon create failed.
+2024-07-09T13:28:02Z, 4384: icon validation failed.
+2024-07-09T13:28:03Z, 4384: icon create failed.
+2024-07-09T13:28:03Z, 4384: icon validation failed.
+2024-07-09T13:28:04Z, 4384: icon create failed.
+2024-07-09T13:28:04Z, 4384: icon validation failed.
+2024-07-09T13:28:05Z, 4384: icon create failed.
+2024-07-09T13:28:05Z, 4384: icon validation failed.
+2024-07-09T13:28:06Z, 4384: icon create failed.
+2024-07-09T13:28:06Z, 4384: icon validation failed.
+2024-07-09T13:28:07Z, 4384: icon create failed.
+2024-07-09T13:28:07Z, 4384: icon validation failed.
+2024-07-09T13:28:08Z, 4384: icon create failed.
+2024-07-09T13:28:08Z, 4384: icon validation failed.
+2024-07-09T13:28:09Z, 4384: icon create failed.
+2024-07-09T13:28:09Z, 4384: icon validation failed.
+2024-07-09T13:28:10Z, 4384: icon create failed.
+2024-07-09T13:28:10Z, 4384: icon validation failed.
+2024-07-09T13:28:11Z, 4384: icon create failed.
+2024-07-09T13:28:11Z, 4384: icon validation failed.
+2024-07-09T13:28:12Z, 4384: icon create failed.
+2024-07-09T13:28:12Z, 4384: icon validation failed.
+2024-07-09T13:28:13Z, 4384: icon create failed.
+2024-07-09T13:28:13Z, 4384: icon validation failed.
+2024-07-09T13:28:14Z, 4384: icon create failed.
+2024-07-09T13:28:14Z, 4384: icon validation failed.
+2024-07-09T13:28:15Z, 4384: icon create failed.
+2024-07-09T13:28:15Z, 4384: icon validation failed.
+2024-07-09T13:28:16Z, 4384: icon create failed.
+2024-07-09T13:28:16Z, 4384: icon validation failed.
+2024-07-09T13:28:17Z, 4384: icon create failed.
+2024-07-09T13:28:17Z, 4384: icon validation failed.
+2024-07-09T13:28:18Z, 4384: icon create failed.
+2024-07-09T13:28:18Z, 4384: icon validation failed.
+2024-07-09T13:28:19Z, 4384: icon create failed.
+2024-07-09T13:28:19Z, 4384: icon validation failed.
+2024-07-09T13:28:20Z, 4384: icon create failed.
+2024-07-09T13:28:20Z, 4384: icon validation failed.
+2024-07-09T13:28:21Z, 4384: icon create failed.
+2024-07-09T13:28:21Z, 4384: icon validation failed.
+2024-07-09T13:28:22Z, 4384: icon create failed.
+2024-07-09T13:28:22Z, 4384: icon validation failed.
+2024-07-09T13:28:23Z, 4384: icon create failed.
+2024-07-09T13:28:23Z, 4384: icon validation failed.
+2024-07-09T13:28:24Z, 4384: icon create failed.
+2024-07-09T13:28:24Z, 4384: icon validation failed.
+2024-07-09T13:28:25Z, 4384: icon create failed.
+2024-07-09T13:28:25Z, 4384: icon validation failed.
+2024-07-09T13:28:26Z, 4384: icon create failed.
+2024-07-09T13:28:26Z, 4384: icon validation failed.
+2024-07-09T13:28:27Z, 4384: icon create failed.
+2024-07-09T13:28:27Z, 4384: icon validation failed.
+2024-07-09T13:28:28Z, 4384: icon create failed.
+2024-07-09T13:28:28Z, 4384: icon validation failed.
+2024-07-09T13:28:29Z, 4384: icon create failed.
+2024-07-09T13:28:29Z, 4384: icon validation failed.
+2024-07-09T13:28:30Z, 4384: icon create failed.
+2024-07-09T13:28:30Z, 4384: icon validation failed.
+2024-07-09T13:28:31Z, 4384: icon create failed.
+2024-07-09T13:28:31Z, 4384: icon validation failed.
+2024-07-09T13:28:32Z, 4384: icon create failed.
+2024-07-09T13:28:32Z, 4384: icon validation failed.
+2024-07-09T13:28:33Z, 4384: icon create failed.
+2024-07-09T13:28:33Z, 4384: icon validation failed.
+2024-07-09T13:28:34Z, 4384: icon create failed.
+2024-07-09T13:28:34Z, 4384: icon validation failed.
+2024-07-09T13:28:35Z, 4384: icon validated.
+2024-07-09T13:28:57Z, 4384: icon validated.
+2024-07-09T13:33:29Z, 4384: Failed opening file: scene.json
+2024-07-09T13:33:30Z, 7556: Failed opening file: E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json
+2024-07-09T13:33:30Z, 7556: Failed parsing E:/Anato/Wallpapers/_Getintopc.com_Wallpaper_Engine_v1.4.180/Wallpaper_Engine_v1.4.180/projects/defaultprojects/razer_bedroom/scene.json with error: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+.
+2024-07-10T03:53:59Z, 3128: icon create failed.
+2024-07-10T03:54:03Z, 3128: icon validated.
+2024-07-10T03:55:09Z, 3128: icon validated.
+2024-07-11T04:06:10Z, 448: icon validated.
+2024-07-11T04:06:45Z, 448: icon validated.
+2024-07-11T06:19:42Z, 448: icon validated.
+2024-07-11T06:20:15Z, 448: icon validated.
+2024-07-11T06:40:38Z, 448: icon validated.
+2024-07-11T07:32:04Z, 448: icon validated.
+2024-07-15T04:05:19Z, 3564: icon validated.
+2024-07-15T04:05:31Z, 3564: icon validated.
+2024-07-15T04:06:41Z, 3564: icon validated.
+2024-07-15T04:12:56Z, 3564: icon validated.
+2024-07-18T04:02:21Z, 14376: icon validated.
+2024-07-18T04:02:57Z, 14376: icon validated.
+2024-07-19T04:08:19Z, 19228: icon validated.
+2024-07-19T04:08:33Z, 19228: icon validated.
+2024-07-19T07:45:43Z, 5648: icon validated.
+2024-07-19T07:46:56Z, 5648: icon validated.
+2024-07-19T11:04:43Z, 11180: icon validated.
+2024-07-19T11:04:48Z, 11180: icon validated.
+2024-07-22T04:07:02Z, 8084: icon create failed.
+2024-07-22T04:07:03Z, 8084: icon create failed.
+2024-07-22T04:07:03Z, 8084: icon validation failed.
+2024-07-22T04:07:05Z, 8084: icon validated.
+2024-07-22T04:07:29Z, 8084: icon validated.
+2024-07-22T04:26:46Z, 8084: icon validated.
+2024-07-22T04:41:40Z, 4448: icon create failed.
+2024-07-22T04:41:41Z, 4448: icon validation failed.
+2024-07-22T04:41:42Z, 4448: icon create failed.
+2024-07-22T04:41:42Z, 4448: icon validation failed.
+2024-07-22T04:41:43Z, 4448: icon create failed.
+2024-07-22T04:41:43Z, 4448: icon validation failed.
+2024-07-22T04:41:44Z, 4448: icon create failed.
+2024-07-22T04:41:44Z, 4448: icon validation failed.
+2024-07-22T04:41:45Z, 4448: icon create failed.
+2024-07-22T04:41:45Z, 4448: icon validation failed.
+2024-07-22T04:41:46Z, 4448: icon create failed.
+2024-07-22T04:41:46Z, 4448: icon validation failed.
+2024-07-22T04:41:47Z, 4448: icon create failed.
+2024-07-22T04:41:47Z, 4448: icon validation failed.
+2024-07-22T04:41:48Z, 4448: icon create failed.
+2024-07-22T04:41:48Z, 4448: icon validation failed.
+2024-07-22T04:41:49Z, 4448: icon create failed.
+2024-07-22T04:41:49Z, 4448: icon validation failed.
+2024-07-22T04:41:50Z, 4448: icon create failed.
+2024-07-22T04:41:50Z, 4448: icon validation failed.
+2024-07-22T04:41:51Z, 4448: icon create failed.
+2024-07-22T04:41:51Z, 4448: icon validation failed.
+2024-07-22T04:41:52Z, 4448: icon create failed.
+2024-07-22T04:41:52Z, 4448: icon validation failed.
+2024-07-22T04:41:53Z, 4448: icon create failed.
+2024-07-22T04:41:53Z, 4448: icon validation failed.
+2024-07-22T04:41:54Z, 4448: icon validated.
+2024-07-22T04:42:19Z, 4448: icon validated.
+2024-07-24T04:01:02Z, 13240: icon create failed.
+2024-07-24T04:01:03Z, 13240: icon create failed.
+2024-07-24T04:01:03Z, 13240: icon validation failed.
+2024-07-24T04:01:05Z, 13240: icon validated.
+2024-07-24T04:01:24Z, 13240: icon validated.
